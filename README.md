@@ -77,13 +77,13 @@
 
 ---
 
-## 📅 2026 Timeline (Quick Reference)
+## 📅 2026 Main Event Timeline (Quick Reference)
 
 | When | What | Where |
 |------|------|-------|
-| Mid-July | Registration opens | CyberForce.energy.gov |
+| Early July | Info Session (CF veterans experience) | Online, TBA |
 | July 15 @ 6 PM | Official CyberForce 101 Webinar | Online |
-| Early July | Info Session (AJ's experience) | In-person, TBA |
+| Mid-July | Registration opens | CyberForce.energy.gov |
 | September | Welcome/Intro event (veterans talk) | In-person |
 | October | C-Suite briefing prep sessions | In-person |
 | November | Live competition | Near Chicago |
@@ -99,13 +99,10 @@
 → Read [CyberForce 101](docs/cyberforce-101.md) or check [FAQ (coming soon)]
 
 **Technical questions?**
-→ DM @Michael or check [Technical Prep](resources/technical-prep/)
+→ Check [Technical Prep](resources/technical-prep/)
 
 **Questions about your role/team?**
 → DM @AJ or check [Team Structure](team-formation/role-descriptions.md)
-
-**Alumni/mentor questions?**
-→ DM @Tegan (alumni talks) or @Michael (red team)
 
 **This repo has an issue?**
 → Create a GitHub Issue or message @AJ
@@ -127,7 +124,7 @@ Want to add something? See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 ## 📋 Repo Status
 
 **Last updated:** June 2026  
-**Maintained by:** AJ & CTF Admin team  
+**Maintained by:** AJ & LUG CTF Group Admin team  
 **For questions:** See above or check [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
