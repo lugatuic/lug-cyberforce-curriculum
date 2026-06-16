@@ -1,0 +1,242 @@
+================================================================================
+# Official Resources & Links
+
+**Last updated:** June 2026  
+**Owner:** AJ  
+**For:** Everyone (reference guide)
+
+---
+
+## 🎯 Official CyberForce
+
+**CyberForce Program Homepage**  
+👉 https://cyberforce.energy.gov/
+
+**CyberForce 101 Library** (START HERE)  
+👉 https://cyberforce.energy.gov/cyberforce-101-library/  
+This is the official, comprehensive resource. Read it.
+
+**Join the CyberForce Listserv**  
+👉 https://cyberforce.energy.gov/stay-connected/  
+Gets you updates, news, and official announcements.
+
+**Register for a Team**  
+👉 [TBA — CyberForce announces mid-July]  
+Check cyberforce.energy.gov when registration opens.
+
+---
+
+## 📚 Past Competitions (Study These)
+
+**2024 Anomalies** (Windows & Linux versions)  
+👉 https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing  
+**What:** Actual challenges from 2024 competition (8 GB)  
+**Why:** Best way to understand what anomalies look like  
+**How to use:** Solve them, time yourself, see different approaches
+
+**2025 Point Breakdown**  
+👉 https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=sharing  
+**What:** How many points for each scoring category  
+**Why:** Understand what matters (anomalies = 40%)  
+**How to use:** Plan your time accordingly
+
+**2025 Team Scorecard**  
+👉 https://github.com/CyberForceProgram/2025_CyberForce_Competition/blob/main/Scorecards/Team%201.pdf  
+**What:** Real scorecard from a competing team  
+**Why:** See what scored well + what didn't  
+**How to use:** Learn from strengths/weaknesses
+
+**CyberForceProgram GitHub**  
+👉 https://github.com/CyberForceProgram/  
+**What:** Official CyberForce GitHub org with past competitions  
+**Why:** Reference materials, past setups  
+**How to use:** Browse for ideas, see what's publicly available
+
+---
+
+## 📖 Learning Resources (Self-Study)
+
+### **Linux**
+
+**Linux Fundamentals (Free Course)**  
+👉 https://www.linux.com/training/  
+**Good for:** Basics if you've never used Linux
+
+**Linux Hardening Guide**  
+👉 https://www.cisecurity.org/cis-benchmarks/ (look for Linux)  
+**Good for:** Real hardening practices, not just theory
+
+**Linux Command Line (Free Book)**  
+👉 http://linuxcommand.org/lc3_learning_the_shell.php  
+**Good for:** Command line practice
+
+### **Windows**
+
+**Windows Security Baseline**  
+👉 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/  
+**Good for:** Official hardening guidance
+
+**Windows Event Log Monitoring**  
+👉 https://www.splunk.com/en_us/blog/security/windows-event-ids.html  
+**Good for:** Understanding what logs matter
+
+**PowerShell Scripting**  
+👉 https://docs.microsoft.com/en-us/powershell/  
+**Good for:** Automating Windows tasks
+
+### **Network Security**
+
+**Wireshark Tutorial**  
+👉 https://www.wireshark.org/download/docs/  
+**Good for:** Packet analysis basics
+
+**Network Fundamentals**  
+👉 https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/13013-10.html  
+**Good for:** Understanding networking concepts
+
+### **CTF & Anomaly Solving**
+
+**TryHackMe** (Free courses)  
+👉 https://tryhackme.com/  
+**Good for:** Hands-on CTF-style practice
+
+**HackTheBox** (Free challenges)  
+👉 https://www.hackthebox.eu/  
+**Good for:** Real-world-ish scenarios
+
+**CTFTime**  
+👉 https://ctftime.org/  
+**Good for:** Writeups from past CTFs (see how others solved things)
+
+### **Open PLC**
+
+**Open PLC Official**  
+👉 https://www.openplcproject.com/  
+**Good for:** Documentation, tutorials, examples
+
+**Industrial Control Systems (ICS) Security**  
+👉 https://www.nist.gov/publications/cybersecurity-manufacturing-systems  
+**Good for:** Understanding why PLC security matters
+
+### **General Cybersecurity**
+
+**NIST Cybersecurity Framework**  
+👉 https://www.nist.gov/cyberframework  
+**Good for:** High-level security concepts
+
+**CIS Controls**  
+👉 https://www.cisecurity.org/cis-controls/  
+**Good for:** Critical security practices
+
+---
+
+## 🛠️ Tools (Install & Practice)
+
+**Kali Linux** (penetration testing)  
+👉 https://www.kali.org/  
+**What:** Pre-loaded with security tools  
+**Use in:** Virtual machine for safe practice
+
+**VirtualBox** (virtual machines)  
+👉 https://www.virtualbox.org/  
+**What:** Run Linux/Windows in a VM on your computer  
+**Use for:** Practicing without breaking your computer
+
+**Wireshark** (network analysis)  
+👉 https://www.wireshark.org/download/  
+**What:** Capture & analyze network traffic  
+**Use for:** Understanding network communication
+
+**Wazuh** (security monitoring)  
+👉 https://wazuh.com/  
+**What:** Intrusion detection + monitoring  
+**Use for:** Learning how to detect attacks
+
+**Splunk** (log analysis)  
+👉 https://www.splunk.com/  
+**What:** Centralized logging + analysis  
+**Use for:** Understanding logs, spotting attacks
+
+---
+
+## 📝 Documentation & References
+
+**OWASP Web Security**  
+👉 https://owasp.org/www-project-top-ten/  
+**Good for:** Web application security concepts
+
+**SEC Consult Blog**  
+👉 https://sec-consult.com/blog/  
+**Good for:** Real vulnerability writeups
+
+**Medium Security Articles**  
+👉 https://medium.com/search?q=cybersecurity  
+**Good for:** Practical guides from practitioners
+
+---
+
+## 🎓 Past CyberForce Resources (Our Repo)
+
+**2026 Call Notes & Decisions**  
+👉 `/admin/admin-meeting-notes.md`  
+**What:** Admin decisions, timeline, lessons  
+**Good for:** Understanding how 2026 was planned
+
+**Common Pitfalls**  
+👉 `/docs/common-pitfalls.md`  
+**What:** What went wrong + how to fix it  
+**Good for:** Avoiding mistakes before they happen
+
+**Team Roles & Structure**  
+👉 `/team-formation/role-descriptions.md`  
+**What:** What Green team, Vuln hunters, Monitors do  
+**Good for:** Understanding your role
+
+---
+
+## 💡 Tips for Using Resources
+
+**For beginners:**
+1. Start with CyberForce 101 Library (official, approachable)
+2. Watch some YouTube videos on Linux basics
+3. Use TryHackMe for hands-on practice
+4. Come to workshops (ask questions!)
+
+**For intermediate:**
+1. Study 2024 anomalies (time yourself, solve them)
+2. Deep dive into Windows hardening
+3. Practice with HackTheBox
+4. Read security blogs + writeups
+
+**For advanced:**
+1. Design your own challenges
+2. Help newer people
+3. Mentor a team
+4. Contribute to red team planning
+
+---
+
+## 📞 How to Suggest New Resources
+
+Found a great guide? Tutorial? Tool?
+
+1. Open a GitHub Issue: "Suggest adding [resource] to official links"
+2. Include: Link, what it's for, why it's good
+3. Tag @AJ or whoever maintains this
+
+---
+
+## 🚨 Don't Use These
+
+**Avoid:**
+- ❌ Illegal hacking tools (we only use legal, authorized tools)
+- ❌ Paid courses for basic stuff (there are free alternatives)
+- ❌ Outdated tutorials (check publish date)
+- ❌ Sketchy "hack" sites (stick to official resources)
+
+---
+
+**Last updated:** June 2026  
+**Have a resource to add?** Create GitHub Issue or tell @AJ
+
+================================================================================
