@@ -56,7 +56,7 @@ Some machines are critical (can't break them), others are "vulnerable" on purpos
 ## What You Actually Do
 
 ### **Day-to-Day During Prep (Sept–Oct)**
-- Attend workshops (Linux hardening, Windows security, Open PLC, etc.)
+- Study concepts through provided content (Linux hardening, Windows security, Open PLC, etc.)
 - Study anomalies from past years
 - Meet with your team
 - Ask questions, learn together
@@ -95,7 +95,7 @@ Some machines are critical (can't break them), others are "vulnerable" on purpos
 
 **Windows systems** — Last year's biggest gap. Windows has 3 different ways to change every setting, they override each other randomly, and monitoring is complex.
 
-**Time commitment** — Normal season is ~2 hrs/week. The 3-week prep crunch is 3–5 hrs/week with your team. Many students don't realize this until it's too late.
+**Time commitment** — Normal season is estimated to be ~2 hrs/week. The 3-week prep crunch is 3–5 hrs/week with your team. Many students don't realize this until it's too late.
 
 **Open PLC** — Controls the actual energy equipment. If you break it, your score tanks. Takes practice to get right.
 
@@ -175,10 +175,10 @@ You don't need to know everything. Teams are balanced. If you're weak in an area
 No. CS majors, math majors, ECE students all compete. You just need to be interested in security.
 
 **What if I don't know Linux/Windows?**
-Perfect. That's what prep workshops are for. Many people start knowing almost nothing.
+Perfect. That's what prep resources/workshops are for. Many people start knowing almost nothing.
 
 **What if my team isn't balanced?**
-That's what veterans + mentors are for. Michael & team can help identify gaps and fill them.
+That's what veterans + mentors are for. We can help identify gaps and fill them.
 
 **Can I miss preparation events?**
 Ideally no. But life happens. Just tell your team captain ASAP. The big issue is if whole teams go dark.
@@ -211,13 +211,13 @@ Not necessarily. Many people do it because it's fun, challenging, and looks good
 ## Next Steps
 
 **Want to learn more?**
-- Read [Competition Timeline](competition-timeline.md) — understand the actual schedule
+- Read [Competition Timeline](event-timeline.md) — understand the actual schedule
 - Check [Team Structure & Roles](../team-formation/role-descriptions.md) — what team roles do
 - Explore [2024 Anomalies](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — see what challenges look like
 - Read [CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — official DoE resource
 
 **Want to get involved?**
-- React 🎯 to the announcement in Discord
+- Announce your interest on the CyberForce 2026 Interest Confirmation
 - Attend the info session (early July)
 - Ask questions in the #cyberforce discord channel
 
