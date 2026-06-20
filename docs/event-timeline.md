@@ -9,7 +9,7 @@
 
 ## 🚨 IMPORTANT: These Are Estimates
 
-CyberForce.energy.gov is the official source. **We're estimating based on past years.** Once CyberForce announces official dates (usually mid-July), those override everything here.
+[CyberForce.energy.gov](https://cyberforce.energy.gov/) is the official source. **We're estimating based on past years.** Once CyberForce announces official dates (usually mid-July), those override everything here.
 
 ---
 
@@ -21,10 +21,9 @@ CyberForce.energy.gov is the official source. **We're estimating based on past y
 |------|------|---------|
 | Early June | Admin planning call | AJ, Michael, CTF leads plan summer + fall |
 | Mid-June | Announcements sent | Email + Discord to all interested people |
-| Late June | Info session (estimated) | CF veterans talk experience, skill assessment |
+| Late June / Early July | Info session (estimated) | CF veterans talk experience, skill assessment |
 
 **What you should do:**
-- Verify if interested in competing
 - Attend info session
 - Start exploring CyberForce 101 Library
 
@@ -34,7 +33,7 @@ CyberForce.energy.gov is the official source. **We're estimating based on past y
 
 | Date | What | Details |
 |------|------|---------|
-| July 15 @ 6 PM | Official CyberForce 101 webinar | Online, run by CyberForce organizers |
+| July 15 @ 6 PM | [Official CyberForce 101 webinar](https://forms.office.com/pages/responsepage.aspx?id=haH8DPcl40mK53BNUybihd07nmsIx6lJma99FFRDrU1URFAzS1pGM1k4WDNOTjU5UFNRRkJGTkJMUS4u&route=shorturl) | Online, run by CyberForce organizers |
 | **Mid-July** | **Registration opens** | CyberForce announces exact date |
 | Mid-July | Announcement posted | AJ posts registration link in Discord |
 | **Late July** | **Registration deadline** | Last day to submit teams (HARD DEADLINE) |
@@ -57,7 +56,7 @@ CyberForce.energy.gov is the official source. **We're estimating based on past y
 | Late August | Admin prep for September | AJ + Michael prepare welcome event + meeting schedule |
 
 **What you should do:**
-- Study if motivated (not required)
+- Study if motivated (not required but recommended)
 - Check emails for updates from AJ
 
 ---
@@ -73,7 +72,7 @@ CyberForce.energy.gov is the official source. **We're estimating based on past y
 | Late Sept | CyberForce scenario hints | CyberForce may release hints about this year's scenario |
 
 **What you should do:**
-- Attend welcome event (even if just curious)
+- Attend welcome event 
 - Show up to team meetings
 - Start engaging with technical prep materials
 - Attend workshops
@@ -123,13 +122,12 @@ CyberForce.energy.gov is the official source. **We're estimating based on past y
 - This is the crunch week (3–5 hrs/week for your team)
 - School is also ending (midterms/finals possible)
 - Stress is real but manageable
-- You're SO close
 
 **Competition day details:**
 - **Location:** Likely Tinley Park Convention Center (estimated, confirm closer to date)
 - **Time:** 8 AM–5 PM (estimated, full day)
 - **What to bring:** Laptop, charger, ID, snacks, confidence
-- **Transportation:** Van rental arranged by AJ + Michael
+- **Transportation:** Van rental arranged by LUG
 - **Red team:** CyberForce coordinators (official)
 
 ---
