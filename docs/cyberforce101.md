@@ -81,11 +81,11 @@ Some machines are critical (can't break them), others are "vulnerable" on purpos
 
 | Category | What | Points |
 |----------|------|--------|
-| C-Suite briefing | Documented response plan | ~10% |
-| Security documentation | Found vulnerabilities + fixes | ~20% |
-| Anomalies solved | CTF-style challenges during competition | ~40% |
-| System uptime | Kept systems running during attacks | ~20% |
-| Incident response | How you reacted to attacks | ~10% |
+| C-Suite briefing | Documented response plan | - |
+| Security documentation | Found vulnerabilities + fixes | - |
+| Anomalies solved | CTF-style challenges during competition | - |
+| System uptime | Kept systems running during attacks | - |
+| Incident response | How you reacted to attacks | - |
 
 **Key insight:** Anomalies are worth the most, but you solve them *while under attack* — so you need a solid defense to have time to solve them.
 
