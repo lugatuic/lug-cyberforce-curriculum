@@ -252,9 +252,6 @@
 **How long is the competition?**
 → 3 weeks total (1 week C-Suite, 1 week prep, 1 day live competition).
 
-**Can I work on stuff during class time?**
-→ October + November will be busy. Talk to your professors if you can. Most are understanding for competitions.
-
 **What if I can't make competition day?**
 → Tell your team captain ASAP. The team needs 6 people ideally. If you can't commit to that, maybe sitting out the competition but helping with prep is better.
 
