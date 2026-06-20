@@ -14,7 +14,7 @@ The **C-Suite Briefing** is a recorded video (5–10 minutes) where your team ex
 2. Your response plan (how you'll fix it)
 3. Resource needs (what you need to succeed)
 
-It's due ~1 week after CyberForce releases the scenario. It's worth (-)% of your score.
+It's due ~1 week after CyberForce releases the scenario. It's worth [insert percentage here] of your score.
 
 **Key insight:** Don't panic. You have a week, and it's doable.
 
