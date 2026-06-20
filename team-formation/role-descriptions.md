@@ -2,7 +2,7 @@
 # Team Roles & Responsibilities
 
 **Last updated:** June 2026  
-**Owner:** AJ (with input from Michael)  
+**Owner:** AJ
 **For:** Competitors, team captains, admins
 
 ---
