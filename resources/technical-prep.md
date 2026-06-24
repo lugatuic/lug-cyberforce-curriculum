@@ -9,7 +9,7 @@
 
 *QUICK NOTE: Some of these sources can be VERY long in contents, my suggestion is to glance at first and see what you do and don't understand. If you are interested, dive into that topic and use these resources as an intro to that tool before finding other external sources on your own. Your study material will narrow down once role assignments are finalized. - AJ*
 
-## Official CyberForce
+## Official CyberForce Resources
 
 **CyberForce Program Homepage**  
 - https://cyberforce.energy.gov/
@@ -17,7 +17,7 @@
 **CyberForce 101 Library** (START HERE)  
 - https://cyberforce.energy.gov/cyberforce-101-library/  
 
-This is the official, comprehensive resource. Read it.
+This is the official, comprehensive resource.
 
 **Join the CyberForce Listserv**  
 - https://cyberforce.energy.gov/stay-connected/  
@@ -26,7 +26,7 @@ Gets you updates, news, and official announcements.
 
 **Register for a Team**  
 [TBA — CyberForce announces mid-July]  
-Check cyberforce.energy.gov when registration opens.
+We will keep an eye on cyberforce.energy.gov when registration opens.
 
 ---
 
@@ -53,7 +53,7 @@ Check cyberforce.energy.gov when registration opens.
 **Why:** See what scored well + what didn't  
 **How to use:** Learn from strengths/weaknesses
 
-**CyberForceProgram GitHub**  
+**Past CyberForceProgram GitHub**  
 - https://github.com/CyberForceProgram/  
 
 **What:** Official CyberForce GitHub org with past competitions  
@@ -66,30 +66,30 @@ Check cyberforce.energy.gov when registration opens.
 
 ### **Linux**
 
-**Linux Fundamentals (Free Course)**  
+**Linux Fundamentals (Pwn.College overall is a great resource for on-hands learning Cyber exercises!)**  
 - https://pwn.college/linux-luminarium/  
 
 **Good for:** Basics if you've never used Linux
 
-**Linux Hardening Guide**  
+**Linux Hardening Guide** (this would be useful once we know which Linux distro to use)
 - https://www.cisecurity.org/cis-benchmarks/ (look for Linux)  
 
 **Good for:** Real hardening practices, not just theory
 
-**Linux Command Line (Free Book)**  
+**Linux Command Line (Free Book, great to use as reference or deep dives)**  
 - http://linuxcommand.org/lc3_learning_the_shell.php  
 
 **Good for:** Command line practice
 
 ### **Windows**
 
-**Windows Security Baseline** [verify source]
+**Windows Security Baseline** 
 - https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines
 
 **Good for:** Official hardening guidance
 
-**Windows Event Log Monitoring** [replace source]
-- https://www.splunk.com/en_us/blog/security/windows-event-ids.html  
+**Windows Event Log Monitoring** 
+- https://newrelic.com/blog/log/windows-logging-guide
 
 **Good for:** Understanding what logs matter
 
@@ -105,8 +105,9 @@ Check cyberforce.energy.gov when registration opens.
 
 **Good for:** Packet analysis basics
 
-**Network Fundamentals**  [replace source]
-- https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/13013-10.html  
+**Network Fundamentals** 
+- https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf
+- https://www.cisco.com/site/us/en/learn/topics/small-business/networking-basics.html
 
 **Good for:** Understanding networking concepts
 
@@ -135,7 +136,7 @@ Check cyberforce.energy.gov when registration opens.
 **Good for:** Documentation, tutorials, examples
 
 **Industrial Control Systems (ICS) Security**  [replace source]
-- https://www.nist.gov/publications/cybersecurity-manufacturing-systems  
+- https://www.fortinet.com/resources/cyberglossary/ics-security
 
 **Good for:** Understanding why PLC security matters
 
@@ -245,7 +246,7 @@ Check cyberforce.energy.gov when registration opens.
 1. Design your own challenges
 2. Help newer people
 3. Mentor a team
-4. Contribute to red team planning
+4. If you are interested in red teaming, consider volunteering for the Red Team at CyberForce! DM @AJ for more info
 
 ---
 
@@ -255,7 +256,7 @@ Found a great guide? Tutorial? Tool?
 
 1. Open a GitHub Issue: "Suggest adding [resource] to official links"
 2. Include: Link, what it's for, why it's good
-3. Tag @AJ or whoever maintains this
+3. Tag @AJ(SeveralBandicoot) or whoever maintains this
 
 ---
 
@@ -264,6 +265,7 @@ Found a great guide? Tutorial? Tool?
 **Avoid:**
 - ❌ Paid courses for basic stuff (there are free alternatives)
 - ❌ Outdated tutorials (check publish date)
+- ❌ Sketchy websites
 
 ---
 
