@@ -65,7 +65,7 @@ Check cyberforce.energy.gov when registration opens.
 ### **Linux**
 
 **Linux Fundamentals (Free Course)**  
-- https://www.linux.com/training/  
+- https://pwn.college/linux-luminarium/  
 
 **Good for:** Basics if you've never used Linux
 
@@ -81,12 +81,12 @@ Check cyberforce.energy.gov when registration opens.
 
 ### **Windows**
 
-**Windows Security Baseline**  
-- https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/  
+**Windows Security Baseline** [verify source]
+- https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines
 
 **Good for:** Official hardening guidance
 
-**Windows Event Log Monitoring**  
+**Windows Event Log Monitoring** [replace source]
 - https://www.splunk.com/en_us/blog/security/windows-event-ids.html  
 
 **Good for:** Understanding what logs matter
@@ -103,7 +103,7 @@ Check cyberforce.energy.gov when registration opens.
 
 **Good for:** Packet analysis basics
 
-**Network Fundamentals**  
+**Network Fundamentals**  [replace source]
 - https://www.cisco.com/c/en/us/support/docs/ip/open-shortest-path-first-ospf/13013-10.html  
 
 **Good for:** Understanding networking concepts
@@ -132,7 +132,7 @@ Check cyberforce.energy.gov when registration opens.
 
 **Good for:** Documentation, tutorials, examples
 
-**Industrial Control Systems (ICS) Security**  
+**Industrial Control Systems (ICS) Security**  [replace source]
 - https://www.nist.gov/publications/cybersecurity-manufacturing-systems  
 
 **Good for:** Understanding why PLC security matters
