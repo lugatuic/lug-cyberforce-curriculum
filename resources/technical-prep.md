@@ -1,11 +1,13 @@
 ================================================================================
-# Official Resources & Links
+# Technical Prep
 
 **Last updated:** June 2026  
 **Owner:** AJ  
 **For:** Everyone (reference guide)
 
 ---
+
+*QUICK NOTE: Some of these sources can be VERY long in contents, my suggestion is to glance at first and see what you do and don't understand. If you are interested, dive into that topic and use these resources as an intro to that tool before finding other external sources on your own. Your study material will narrow down once role assignments are finalized. - AJ*
 
 ## Official CyberForce
 
