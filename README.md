@@ -11,9 +11,9 @@
 - [What is CyberForce?](docs/cyberforce101.md) — overview & competition structure
 - [Competition Timeline](docs/event-timeline.md) — dates, phases, what happens when
 - [Official CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — read this
-- [2024 Anomalies](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — study what you'll face
+- [CyberForce 2025 Resources](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — study what last years team faced
 - [Team Structure & Roles](team-formation/role-descriptions.md) — Green, Vuln Hunters, Monitors
-- [Technical Prep Guide](resources/official-links/) — Linux, Windows, Open PLC, PHP, networking
+- [Technical Prep Guide](resources/technical-prep/) — Linux, Windows, Open PLC, PHP, networking
 
 ### **For Event Leaders**
 - [Welcome Event Playbook](events/welcome-event/) — agenda, talking points, veteran scripts
