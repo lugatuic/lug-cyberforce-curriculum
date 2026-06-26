@@ -17,7 +17,7 @@
 
 ### **For Event Leaders**
 - [Intro to CyberForce + CCDC Call](events/intro-to-cf-ccdc-call-notes/) — skill assessment, confidence building 
-- [C-Suite Briefing Prep Guide](events/c-suite-prep/2026/prep-notes.md) — practice sessions, recording tips
+- [C-Suite Briefing Prep Guide](events/c-suite-prep/2026/csuite-prep-notes.md) — practice sessions, recording tips
 - [Welcome Event Playbook](events/welcome-event/) — agenda, talking points, veteran scripts
 
 ### **For Admins/Next Year's Leads**
