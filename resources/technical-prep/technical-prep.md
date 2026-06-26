@@ -1,5 +1,5 @@
 ================================================================================
-# Technical Prep
+# Technical Prep Resources
 
 **Last updated:** June 2026  
 **Owner:** AJ  
