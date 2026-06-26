@@ -3,6 +3,8 @@
 
 **Welcome!** Whether you're competing, helping, or just curious — start here.
 
+This curriculum covers CyberForce (primary) and preparation for CCDC (coming soon).
+
 ---
 
 ## 🎯 Quick Links (Start Here!)
