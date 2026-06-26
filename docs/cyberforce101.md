@@ -206,7 +206,7 @@ Not necessarily. Many people do it because it's fun, challenging, and looks good
 **Want to learn more?**
 - Read [Competition Timeline](event-timeline.md) — understand the actual schedule
 - Check [Team Structure & Roles](../team-formation/role-descriptions.md) — what team roles do
-- Explore [CyberForce 2025 Google Drive](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto) - 2024's CF team resources 
+- Explore [CyberForce 2025 Google Drive](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto) - 2025's CF team resources 
 - Read [CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — official DoE resource
 
 **Want to get involved?**
