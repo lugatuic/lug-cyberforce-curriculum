@@ -13,7 +13,7 @@
 - [Official CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — read this
 - [CyberForce 2025 Resources](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — study what last years team faced
 - [Team Structure & Roles](team-formation/role-descriptions.md) — Green, Vuln Hunters, Monitors
-- [Technical Prep Guide](resources/technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
+- [Technical Prep Guide](resources/technical-prep/technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
 
 ### **For Event Leaders**
 - [Intro to CyberForce + CCDC Call](events/intro-to-cf-ccdc-call-notes/) — skill assessment, confidence building 
