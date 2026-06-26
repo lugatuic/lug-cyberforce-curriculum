@@ -8,13 +8,13 @@ For the 2027 Lead (and beyond)
 
 ---
 
-## 🚀 You're Now the CyberForce Lead
+## You're Now the CyberForce/CCDC Lead
 
 Congratulations! You've inherited a curriculum, a community, and a competition that matters. Here's what you need to know.
 
 ---
 
-## 📋 READ THESE FIRST (In This Order)
+## READ THESE FIRST (In This Order)
 
 1. **This document** (you're reading it) — timeline & overview
 2. [Common Pitfalls](docs/common-pitfalls.md) — what we learned (and what broke)
@@ -24,15 +24,15 @@ Congratulations! You've inherited a curriculum, a community, and a competition t
 
 ---
 
-## 🎯 YOUR JOB (High Level)
+## YOUR JOB (High Level)
 
 You are responsible for:
 
 ✅ **Planning** — When do events happen? Who runs them? What resources do teams need?  
 ✅ **Communication** — Announcements, Discord, emails, keeping everyone informed  
 ✅ **Team formation** — Help balance teams, confirm rosters, manage logistics  
-✅ **Events** — Welcome event, C-Suite prep, info sessions, March Madness  
-✅ **Coordination** — Work CF leads, ACM SIG Cyber CF leads, team captains  
+✅ **Events** — Welcome event, C-Suite prep, info sessions, etc.
+✅ **Coordination** — Work CF/CCDC leads, ACM SIG Cyber CF leads, team captains  
 ✅ **Archival** — Capture lessons learned, update this repo for next year  
 
 You are **not** responsible for:
@@ -42,7 +42,7 @@ You are **not** responsible for:
 
 ---
 
-## 📅 TIMELINE: WHAT HAPPENS WHEN
+## TIMELINE: WHAT HAPPENS WHEN
 
 ### **June–July (Summer Planning)**
 
@@ -64,7 +64,7 @@ You are **not** responsible for:
 **Outputs:**
 - [ ] Info session scheduled + announced
 - [ ] Discord setup complete
-- [ ] Reached out to Michael + team leads
+- [ ] Reached out to team leads
 
 ---
 
@@ -76,7 +76,7 @@ You are **not** responsible for:
 - [ ] Confirm rosters before registration deadline
 - [ ] Make sure paperwork is submitted on time
 
-**Critical:** Last year, a team got rejected for late forms. **Don't be that team.** Mark registration deadline in your calendar and bug people 1 week before.
+**Critical:** In 2025, a team got rejected for late forms. **Don't be that team.** Mark registration deadline in your calendar and bug people 1 week before.
 
 **Key decisions:**
 - How do you want to divide people into LUG vs. ACM teams? (Based on interest, skills, friendship groups?)
@@ -176,12 +176,10 @@ You are **not** responsible for:
 - [ ] Collect post-competition feedback from teams
 - [ ] Get scorecards + team reports from CyberForce
 - [ ] Write up lessons learned
-- [ ] Plan March Madness event (with Michael + red team)
 - [ ] Update this repo with 2027 lessons
 
 **Key decisions:**
 - What do we do differently next year? (more Windows prep? earlier Open PLC? better anomaly focus?)
-- Should we run March Madness again? (If yes, who leads the red team?)
 - Who's staying in leadership? Who's leaving?
 - What training materials need updating?
 
@@ -195,7 +193,7 @@ You are **not** responsible for:
 
 ---
 
-## 🔑 Key Success Factors
+## Key Success Factors
 
 **Communication**
 - Weekly Discord updates (even if just "on track")
@@ -210,7 +208,7 @@ You are **not** responsible for:
 **Delegation**
 - You don't have to do everything
 - Ask others to run technical sessions
-- Ask CF veterans to give alumni talks
+- Ask CF/CCDC veterans to give alumni talks
 - Ask team captains to own their team's prep
 - Your job is to facilitate, not do it all
 
@@ -221,7 +219,7 @@ You are **not** responsible for:
 - Write handoff notes for next year (this is how the next person survives)
 
 **Mental health**
-- Competing in CyberForce is stressful
+- Competing in CyberForce/CCDC is stressful
 - Your job is to normalize that ("Yes, this is hard, you're not alone")
 - Celebrate wins, no matter how small
 - Remind people why this matters (learning, skills, team, fun)
@@ -261,14 +259,10 @@ You are **not** responsible for:
 
 ---
 
-## 📞 Key Contacts
+## Key Contacts
 
 **Technical questions / CF Strategy:**
 - [person to contact] — discord, email, or ask in person
-
-**Red Team / March Madness:**
-- [person to contact]
-- [person to contact]
 
 **Alumni talks / Mentoring:**
 - Tegan (2x veteran)
@@ -288,7 +282,7 @@ You are **not** responsible for:
 
 ---
 
-## 💾 Critical Files to Update Each Year
+## Critical Files to Update Each Year
 
 - [ ] `/HANDOFF.md` (this file) — add notes for 2028 lead
 - [ ] `/docs/common-pitfalls.md` — add 2027 lessons
@@ -300,7 +294,7 @@ You are **not** responsible for:
 
 ---
 
-## 🎯 Your First 30 Days
+## Your First 30 Days - Rough Estimate
 
 **Week 1:**
 - [ ] Read this document + Common Pitfalls + Admin Notes
@@ -327,7 +321,7 @@ You are **not** responsible for:
 
 ---
 
-## 📖 Templates to Copy (Don't Rebuild)
+## Templates to Copy (Don't Rebuild)
 
 - [Announcements](announcements/) — copy + adapt
 - [Event agendas](events/) — use as starting point
@@ -339,7 +333,7 @@ You are **not** responsible for:
 
 ---
 
-## 🎓 Final Thoughts
+## Final Thoughts
 
 **This is a big job, but you can do it.** You have:
 - A curriculum already built (don't start from scratch)
@@ -361,7 +355,7 @@ You are **not** responsible for:
 
 ---
 
-## 🚀 You've Got This
+## You've Got This
 
 Go build something great. And write detailed handoff notes for whoever comes next. 
 

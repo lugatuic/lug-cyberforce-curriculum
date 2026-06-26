@@ -75,7 +75,6 @@ Team C (strong team, just wants someone to review work):
 | June | "I'm mentoring Team A" (confirm commitment) |
 | Sept–Oct | ~1 hr/week (check-in with team, answer questions) |
 | Oct–Nov | ~2 hrs/week (more intense during crunch) |
-| November | Available for questions during competition |
 | December | Debrief + feedback |
 
 **What mentors DON'T do:**
@@ -121,7 +120,7 @@ Team C (strong team, just wants someone to review work):
 
 4. **Resources**
    - Links to `/docs/`, `/resources/`, `/team-formation/`
-   - 2024 anomalies
+   - 2024 + 2025 CF team notes
    - CyberForce 101 Library
 
 ---
@@ -209,13 +208,13 @@ AVAILABLE MENTORS:
 
 TEAMS FORMED:
 - LUG Team A (6 people, mixed experience)
-- LUG Team B (5 people, newer folks)
+- LUG Team B (6 people, newer folks)
 - ACM Team (4 people, strong on web)
 
 MATCHING:
-LUG Team A → Michael (helps with strategy, open PLC)
-LUG Team B → Sam (helps with Windows hardening, builds confidence)
-ACM Team → Tegan (helps with vulnearchae documentation, escalates if needed)
+LUG Team A → Tegan (helps with strategy, open PLC)
+LUG Team B → Michael (helps with Windows hardening, builds confidence)
+ACM Team → Sam (helps with vulnearchae documentation, escalates if needed)
 
 CONFIRMATION:
 [Ask each mentor & team captain to agree]

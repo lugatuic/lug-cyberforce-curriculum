@@ -13,13 +13,12 @@
 - [Official CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — read this
 - [CyberForce 2025 Resources](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing) — study what last years team faced
 - [Team Structure & Roles](team-formation/role-descriptions.md) — Green, Vuln Hunters, Monitors
-- [Technical Prep Guide](resources/technical-prep/) — Linux, Windows, Open PLC, PHP, networking
+- [Technical Prep Guide](resources/technical-prep.md) — Linux, Windows, Open PLC, PHP, networking
 
 ### **For Event Leaders**
+- [Intro to CyberForce + CCDC Call](events/intro-to-cf-ccdc-call-notes/) — skill assessment, confidence building 
+- [C-Suite Briefing Prep Guide](events/c-suite-prep/2026/prep-notes.md) — practice sessions, recording tips
 - [Welcome Event Playbook](events/welcome-event/) — agenda, talking points, veteran scripts
-- [C-Suite Briefing Prep Guide](events/c-suite-prep/) — practice sessions, recording tips
-- [Info Session Guide](events/info-session/) — skill assessment, confidence building 
-- March Madness Planning — red-vs-blue competition guide (no documentation yet)
 
 ### **For Admins/Next Year's Leads**
 - [Handoff Guide](HANDOFF.md) — **Read this first** if you're taking over
@@ -28,7 +27,7 @@
 - [Common Pitfalls](docs/common-pitfalls.md) — what went wrong + how to fix
 
 ### **For Alumni/Mentors**
-- [Mentoring Guide](team-formation/team_mentor_matching.md) — how to help a team
+- [Mentoring Guide](team-formation/team-mentor-matching.md) — how to help a team
 - Red Team Guide — help run the competition (no documentation yet)
 - Archive: Lessons from Veterans (archival/veteran-knowledge/) — (no documentation yet)
 
@@ -39,7 +38,7 @@
 ```
 /docs/                 → General knowledge (what is CF, timeline, scoring)
 /resources/            → Learning materials (Linux, Windows, Open PLC, tools)
-/events/               → Event playbooks (welcome, C-Suite, info session, March Madness)
+/events/               → Event playbooks (welcome, C-Suite, info session, etc.)
 /team-formation/       → Team building (roles, balancing, mentors)
 /competition-prep/     → Week-by-week curriculum (Sept–Nov)
 /announcements/        → Discord & email templates
@@ -56,9 +55,9 @@
 **If you're competing:**
 1. Read [CyberForce 101](docs/cyberforce101.md)
 2. Check [Competition Timeline](docs/event-timeline.md)
-3. Study [2024 Anomalies](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing)
-4. Explore [Technical Prep](resources/technical-prep/) based on your role
-5. Attend workshops & events listed in calendar
+3. Study [CyberForce 2025 Team's Google Drive](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+4. Explore [Technical Prep](resources/technical-prep/technical-prep.md)
+5. Attend events listed in calendar
 
 **If you're running an event:**
 1. Go to `/events/[event-name]/`
@@ -81,13 +80,12 @@
 
 | When | What | Where |
 |------|------|-------|
-| Early July | Info Session (CF veterans experience) | Online, TBA |
+| Early July | Intro to CyberForce + CCDC Call (CF veterans experience) | Online, TBA |
 | July 15 @ 6 PM | Official CyberForce 101 Webinar | Online |
 | Mid-July | Registration opens | CyberForce.energy.gov |
 | September | Welcome/Intro event (veterans talk) | In-person |
 | October | C-Suite briefing prep sessions | In-person |
 | November | Live competition | Near Chicago |
-| March 2027 | March Madness (red-vs-blue event) | In-person, TBA |
 
 *[Detailed timeline in [Competition Timeline](docs/event-timeline.md)]*
 
@@ -99,7 +97,7 @@
 → Read [CyberForce 101](docs/cyberforce101.md) or check [FAQ (coming soon)]
 
 **Technical questions?**
-→ Check [Technical Prep](resources/technical-prep/)
+→ Check [Technical Prep](resources/technical-prep/technical-prep.md)
 
 **Questions about your role/team?**
 → DM @AJ or check [Team Structure](team-formation/role-descriptions.md)

@@ -1,5 +1,5 @@
 ================================================================================
-# Admin Timeline — Internal Checklist & Deadlines
+# Admin Timeline — Internal Checklist & Deadlines (WIP)
 (For CTF admins, not for public)
 
 **Last updated:** June 2026  
@@ -8,17 +8,21 @@
 
 ---
 
-## 🚨 CRITICAL DEADLINES
+## 🚨 CRITICAL DEADLINES - (WIP: add pre-july items)
+
+**Early-July: Pre-Registeration Items**
+- Intro to CyberForce/CCDC Call
+- Have team rosters ready + confirm with students
+- CyberForce101 Webinar (optional) 
 
 **Mid-July: Registration Opens**
 - Once CyberForce announces date, post to Discord immediately
 - Set reminder for registration deadline (usually ~2 weeks after opens)
-- Confirm team rosters 1 week before deadline
 - Remind people about deadline constantly
 
 **Late July: Registration Deadline** ← DO NOT MISS
 - Check that all teams have submitted paperwork
-- Confirm with Michael/team captains that forms are in
+- Confirm with team captains that forms are in
 - If you see a team hasn't registered, bug them NOW
 
 **Early October: C-Suite Due**
@@ -41,7 +45,7 @@
 
 ## 📅 DETAILED ADMIN CHECKLIST
 
-### **JUNE (Right Now!)**
+### **JUNE**
 
 **First 2 weeks:**
 - [ ] Update GitHub repo with 2026 materials
@@ -53,15 +57,13 @@
 **Mid-June:**
 - [ ] Meet with Michael — confirm involvement, divide responsibilities
 - [ ] Meet with Caleb — confirm ACM team, roster status
-- [ ] Confirm LUG team leadership (you + Michael)
+- [ ] Confirm LUG team leadership
 - [ ] Schedule admin calls (roughly monthly June–Nov)
-- [ ] Create WhenToMeet for next admin call
 
 **Late June:**
 - [ ] Schedule info session (early July)
 - [ ] Send invites for info session
 - [ ] Prepare talking points for info session
-- [ ] Reach out to mentors/veterans (Michael, Sam, Tegan)
 
 ---
 
@@ -69,7 +71,8 @@
 
 **Early July:**
 - [ ] Hold info session
-- [ ] Collect skill assessment data (don't need names, just counts)
+- [ ] Collect skill assessment data
+- [ ] Form potential team rosters based on data gathered from skill assessment
 - [ ] Post updates to Discord
 - [ ] Confirm interest from SISL (if pursuing)
 
@@ -78,15 +81,13 @@
 - [ ] Email: "Registration opens [DATE], deadline is [DATE]"
 - [ ] Discord: Same announcement
 - [ ] Send registration link + instructions
-- [ ] Follow up with interested people (lock in commitment)
 
 **Late July (Also Critical):**
 - [ ] Confirm all team rosters (who's on each team?)
 - [ ] Assign team captains
 - [ ] Create team-specific Discord channels
-- [ ] **Registration deadline passes** — last teams lock in
+- [ ] **Registration deadline passes** 
 - [ ] Check that all teams actually submitted paperwork
-- [ ] Celebrate! Teams are formed
 
 **End of July:**
 - [ ] Email check: "Everyone confirm you registered with CyberForce"
@@ -94,7 +95,7 @@
 
 ---
 
-### **AUGUST (Quiet Month — Don't Ignore It!)**
+### **AUGUST**
 
 **Early August:**
 - [ ] Admin meeting: "What did we learn from July? Any issues?"
@@ -102,14 +103,12 @@
 - [ ] Update internal timeline with any changes
 
 **Mid-August:**
-- [ ] Reach out to Michael: "When's the welcome event? Who's helping?"
 - [ ] Book room for welcome event (early September)
 - [ ] Confirm Michael, Sam, Tegan can attend welcome event
 - [ ] Start planning September meetings (schedule + topics)
 
 **Late August:**
 - [ ] Post September calendar to Discord
-- [ ] Confirm Wazuh server setup plan with Michael
 - [ ] Any logistics planning (transportation, advisor contacts, etc.)
 - [ ] Reach out to team captains: "How's the team doing?"
 
@@ -140,13 +139,11 @@
 
 ### **OCTOBER (Scenario Drops, C-Suite Prep)**
 
-**Early October (Critical):**
+**Mid-October:**
 - [ ] CyberForce drops scenario → Announce immediately
 - [ ] Post summary of scenario in Discord
 - [ ] Announce C-Suite briefing due date (1 week later)
 - [ ] Announce practice session + recording session dates
-
-**Mid-October:**
 - [ ] C-Suite briefing due (check that all teams submitted)
 - [ ] Hold practice session (teams present mock C-Suite to each other)
 - [ ] Book recording session time slots
@@ -154,7 +151,6 @@
 
 **Late October:**
 - [ ] C-Suite recording sessions ongoing
-- [ ] Send reminders about ecosystem security documentation (coming soon)
 - [ ] Admin meeting: "How are C-Suite prep sessions going? Any feedback?"
 
 ---
@@ -162,12 +158,11 @@
 ### **NOVEMBER (Crunch Time)**
 
 **Early November (Critical):**
+Phase 1 - Pre-Competiton:
 - [ ] SSH access released by CyberForce → Announce immediately
 - [ ] Post "Now you have access to machines" tutorial + link to resources
 - [ ] Announce security documentation due date (1 week later)
 - [ ] Weekly (or more) team check-ins — morale + support
-
-**Mid-November (Also Critical):**
 - [ ] Security documentation due (check that all teams submitted)
 - [ ] Competition date confirmed + venue announced → Post immediately
 - [ ] Announce: "Here's where we're meeting, what time, what to bring"
@@ -180,14 +175,14 @@
   - [ ] Parking situation understood
   - [ ] Backup plan if something goes wrong
 
-**Late November (Competition Week):**
+**Mid-November-ish (Criticall):**
+Phase 2 - Competition
 - [ ] Send reminder to all teams: "Competition is [DATE], be here [TIME] at [PLACE]"
 - [ ] Confirm all 6 people per team are confirmed for competition day
 - [ ] Do final wellness check: "How are you feeling? Any last questions?"
 - [ ] Travel day logistics confirmed
 - [ ] Post encouragement message: "You've got this. We believe in you."
 - [ ] **Competition happens**
-- [ ] Celebrate!
 
 ---
 
@@ -213,11 +208,11 @@
 
 ---
 
-## 📞 Key Contacts & When to Reach Out
+## Key Contacts & When to Reach Out
 
 | Who | Why | When |
 |-----|-----|------|
-| Michael | CF strategy, technical questions, red team planning | Monthly check-ins |
+| Michael | CF strategy, technical questions | Monthly check-ins |
 | Caleb | ACM team status, logistics | Monthly check-ins |
 | Sam/Tegan | Mentor availability, alumni talks | August + December |
 | Rigel/Faculty advisor | Transportation, mentorship approval | Early August, mid-November |
@@ -225,7 +220,7 @@
 
 ---
 
-## 💰 Budget Rough Estimates
+## Budget Rough Estimates
 
 *Note: These are estimates. Actual costs vary.*
 
@@ -236,24 +231,23 @@
 | Food/snacks |  - | Mid-Nov |
 | Miscellaneous | TBD | TBD |
 
-**Who to ask about budget:** LUG president or CFO
+**Who to ask about budget:** LUG Treasurer
 
 ---
 
 ## ✅ Pre-Competition Checklist (November)
 
 Two weeks before competition day:
-- [ ] All teams confirmed participating? (6 people each)
+- [ ] All teams confirmed ready? (6 people each)
 - [ ] Transportation arranged? (Van booked, drivers confirmed)
 - [ ] Location + time confirmed? (All teams know where to meet + when)
 - [ ] What to bring communicated? (Laptop, charger, ID, snacks)
 - [ ] Logistics backup plan? (What if van breaks down? Bad weather? etc.)
-- [ ] Final encouragement sent? (Morale boost, confidence building)
 - [ ] Admin team coordinates? (Who's driving? Who's taking photos? etc.)
 
 ---
 
-## 📊 Success Metrics
+## Success?
 
 At the end of 2026, ask yourself:
 
@@ -262,12 +256,12 @@ At the end of 2026, ask yourself:
 - ✅ Did events happen as planned?
 - ✅ Did we capture lessons learned?
 - ✅ Is the repo updated for next year?
-- ✅ Did we document knowledge (Michael's insights, red team learnings)?
+- ✅ Did we document knowledge?
 - ✅ Are we leaving clear handoff notes for 2027?
 
 ---
 
-## 🎯 Monthly Admin Call Template
+## Monthly Admin Call Template
 
 **Once per month (June–Nov), hold a call with:**
 - AJ
@@ -286,7 +280,7 @@ At the end of 2026, ask yourself:
 
 ---
 
-## 🚀 Handoff (For 2027 Lead)
+## Handoff (For 2027 Lead)
 
 By end of December 2026:
 - [ ] Update HANDOFF.md with lessons learned

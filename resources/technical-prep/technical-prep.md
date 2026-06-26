@@ -237,7 +237,7 @@ We will keep an eye on cyberforce.energy.gov when registration opens.
 3. Use TryHackMe for hands-on practice
 
 **For intermediate:**
-1. Study 2024 anomalies (time yourself, solve them)
+1. Study 2024 anomalies
 2. Deep dive into Windows hardening
 3. Practice with HackTheBox
 4. Read security blogs + writeups

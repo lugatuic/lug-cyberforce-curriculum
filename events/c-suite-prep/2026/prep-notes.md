@@ -24,7 +24,7 @@ It's due ~1 week after CyberForce releases the scenario. It's worth [insert perc
 
 **Day 0:** Scenario drops (read it carefully)  
 **Days 1–3:** Draft talking points, assign presenters  
-**Days 3–5:** Practice, refine, record  
+**Days 3–5:** Practice, refine, record. Look at past years C-Suite videos/slides+transcripts as reference  
 **Day 6:** Watch what you recorded, redo if needed  
 **Day 7:** Submit  
 
@@ -50,7 +50,7 @@ It's due ~1 week after CyberForce releases the scenario. It's worth [insert perc
 
 ## How to Prep
 
-### **Step 1: Read the Scenario (30 min)**
+### **Step 1: Read the Scenario (est. 30 min)**
 
 When CyberForce releases the scenario:
 1. Read it carefully
@@ -65,7 +65,7 @@ When CyberForce releases the scenario:
 - What was affected: Customer data
 - Attacker capability: Persistence (they can come back)
 
-### **Step 2: Draft Talking Points (1–2 hours)**
+### **Step 2: Draft Talking Points (est. 1–2 hours)**
 
 **As a team**, brainstorm answers to:
 
@@ -118,14 +118,14 @@ What we need:
 - Budget for new tools (~$X)
 ```
 
-### **Step 3: Assign Presenters (30 min)**
+### **Step 3: Assign Presenters (est. 30 min)**
 
 Choose 2 people (out of 4–6) to present.
 
 **Why 2?** Each person talks for ~2.5–5 minutes. Less individual memorization = fewer reshoots.
 
 **Who should present?**
-- People comfortable speaking (not necessarily experts)
+- People comfortable speaking 
 - People who can explain clearly
 - Mix of 1 experienced + 1 newer person (nice modeling)
 
@@ -135,7 +135,7 @@ Choose 2 people (out of 4–6) to present.
 
 ---
 
-### **Step 4: Write Full Script (1–2 hours)**
+### **Step 4: Write Full Script (est. 1–2 hours)**
 
 **Each presenter writes their section in full script format.**
 
@@ -175,7 +175,7 @@ That's what happened. [Presenter 2], can you walk us through the fix?"
 - ❌ Sound rehearsed/robotic (boring)
 - ❌ Claim you'll fix everything (unrealistic)
 
-### **Step 5: Practice (1–2 hours over several days)**
+### **Step 5: Practice (est. 1–2 hours over several days)**
 
 **Day 3–4: Individual practice**
 - Each presenter reads their section alone
@@ -207,7 +207,7 @@ That's what happened. [Presenter 2], can you walk us through the fix?"
 
 **Typical outcome:** Need 2–3 takes. First take has stumbles, second is better, third is good.
 
-**Pro tip:** Script nearby but don't read directly (have cards, cue yourself)
+**Pro tip:** Script nearby but don't read directly 
 
 ### **Step 7: Review & Resubmit if Needed**
 
@@ -304,6 +304,8 @@ A: That's okay. You all agreed on something before you started writing. Document
 
 ## Resources
 
+- [CyberForce 2025 Team Repo]() - Take a look at the C-Suite content within this google drive to get a good idea of how the C-Suite presentation should look like
+- [CyberForce 2024 Team Repo]() - Take a look at the C-Suite content within this google drive to get a good idea of how the C-Suite presentation should look like
 - [CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/) — Understanding C-Suite expectations
 - Past C-Suite examples (ask veterans)
 - [Common Pitfalls](../docs/common-pitfalls.md) — What went wrong before

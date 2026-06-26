@@ -13,7 +13,7 @@
 
 ---
 
-## 📅 Month-by-Month Breakdown
+## Month-by-Month Breakdown
 
 ### **JUNE 2026 (Planning)**
 
@@ -40,11 +40,10 @@
 
 **What you should do:**
 - Attend July 15 webinar (optional but recommended)
-- Lock in your team (with AJ's help)
-- Make sure registration is submitted before deadline
+- Make sure registration is submitted before deadline (with AJ's help)
 - Start exploring technical prep materials
 
-**Critical:** Don't miss the registration deadline. Teams get rejected if paperwork is late.
+**Critical:** Make sure to keep an eye on your inboxes in July, this is when registeration opens and teams get booted even if they register late within the window
 
 ---
 
@@ -52,12 +51,12 @@
 
 | Date | What | Details |
 |------|------|---------|
-| All month | Summer studying | Optional: learn Linux, Windows, Open PLC on your own |
+| All month | Studying | Optional: learn Linux, Windows, Open PLC on your own |
 | Late August | Admin prep for September | AJ + Michael prepare welcome event + meeting schedule |
 
 **What you should do:**
-- Study if motivated (not required but recommended)
-- Check emails for updates from AJ
+- Study based off of role placement 
+- Check emails/discord for updates from AJ
 
 ---
 
@@ -65,17 +64,16 @@
 
 | Date | What | Details |
 |------|------|---------|
-| Sept 1 | Classes start | Semester begins (things get busy) |
 | **Early Sept** | **Welcome/Intro Event** | Michael, Sam, Tegan talk about CF experience |
-| Mid-Sept | First team meetings | Teams meet for the first time (officially) |
-| Bi-weekly | Workshops or CTF meetings | Alternating workshops + CTF events (schedule TBA) |
+| Mid-Sept | First team meetings | Teams meet for the first time (in person) |
+| Bi-weekly | CF/CCDC meetings | CF/CCDC CTF events (schedule TBA) |
 | Late Sept | CyberForce scenario hints | CyberForce may release hints about this year's scenario |
 
 **What you should do:**
 - Attend welcome event 
 - Show up to team meetings
 - Start engaging with technical prep materials
-- Attend workshops
+- Attend technical events
 
 ---
 
@@ -87,7 +85,7 @@
 | **Oct 22 (est.)** | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
 | Early Oct | Practice session | Teams do mock C-Suite presentations to each other |
 | Mid-Oct | Recording session slots | Teams sign up to record their C-Suite videos |
-| Weekly | Team meetings | Ongoing prep, workshops, problem-solving |
+| Weekly | Team meetings | Ongoing prep, problem-solving |
 
 **What you should do:**
 - Read scenario carefully (understand what you're defending)
@@ -108,7 +106,7 @@
 |--------|------|---------|
 | **Early Nov (est.)** | **SSH access to machines** | You can now log into actual competition network |
 | **Nov 8 (est.)** | **Security documentation due** | Final week's work — document all vulnerabilities found + fixes |
-| **Late Nov (est.)** | **Competition day** | Usually Friday or Saturday, full day event near Chicago |
+| **Early-Mid Nov** | **Competition day** | Usually Friday or Saturday, full day event near Chicago |
 | ~6 PM | Awards ceremony | Results announced, debrief |
 
 **What you should do:**
@@ -142,7 +140,6 @@
 
 **What you should do:**
 - Read your scorecard (learn from it)
-- Celebrate! You did it!
 - Give feedback (what was hard? what helped?)
 - Optional: write a report for next year's students
 
@@ -158,13 +155,13 @@
 
 ### **Phase 2: Security Documentation (1 week)**
 **What:** Explore machines, hunt vulnerabilities, document everything  
-**When:** Nov (estimated)  
+**When:** Early Nov (estimated)  
 **Duration:** 1 week of intense work  
 **Stress level:** High (you're SSH'd in, exploring, on deadline)  
 
 ### **Phase 3: Competition (1 day)**
 **What:** Live attack/defense + anomalies  
-**When:** Late Nov (estimated), usually full day  
+**When:** Early-Mid Nov (estimated), usually full day  
 **Duration:** ~8 hours (8 AM–5 PM)  
 **Stress level:** Very high (real-time threats, scoring happening)  
 
@@ -174,7 +171,7 @@
 
 | Phase | Per Week | Total | Notes |
 |-------|----------|-------|-------|
-| **Prep (Sept–Oct)** | ~2 hrs | ~8 weeks | Workshops, meetings, studying |
+| **Prep (Sept–Oct)** | ~2 hrs | ~8 weeks | CTFs, meetings, studying |
 | **Crunch (Early Nov)** | 3–5 hrs | 1 week | Intense, but short |
 | **Competition Day** | 8 hrs | 1 day | Full day event |
 | **Total** | — | ~40–50 hrs | Over 4 months |
@@ -188,7 +185,7 @@
 | **Mid-July** | Registration deadline | Teams rejected if late |
 | **Early Oct** | C-Suite due | Can't compete if not submitted |
 | **Early Nov** | Security doc due | Can't compete if not submitted |
-| **Late Nov** | Competition day | Obviously |
+| **Early-Mid Nov** | Competition day | Obviously |
 
 ---
 
@@ -205,7 +202,7 @@
 
 ---
 
-## 📝 What to Know by Phase
+## What to Know by Phase
 
 ### **Before September**
 - ✅ What is CyberForce? (Read [CyberForce 101](cyberforce-101.md))
@@ -244,13 +241,13 @@
 
 ---
 
-## ❓ Common Timeline Questions
+## Common Timeline Questions
 
 **When do I register?**
 → Mid-July. AJ will post the link.
 
 **How long is the competition?**
-→ 3 weeks total (1 week C-Suite, 1 week prep, 1 day live competition).
+→ ~3 weeks (1 week C-Suite, 1 week prep, 1 day live competition).
 
 **What if I can't make competition day?**
 → Tell your team captain ASAP. The team needs 6 people ideally. If you can't commit to that, maybe sitting out the competition but helping with prep is better.
@@ -260,7 +257,7 @@
 
 ---
 
-## 📞 Questions?
+## Questions?
 
 - **Exact dates?** Watch [CyberForce.energy.gov](https://cyberforce.energy.gov/) (official source)
 - **Our estimated dates wrong?** Tell AJ, we'll update

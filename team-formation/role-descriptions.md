@@ -137,7 +137,6 @@ CyberForce teams are 4–6 people. An ideal team has people with different skill
 - Remind people of deadlines (C-Suite, security doc, competition day)
 - Respond to admins when they ask questions
 - Support people who are struggling
-- Celebrate wins
 - Keep team organized + on track
 
 **This is in addition to their role.** If you're a vulnerability hunter + team captain, you do both.
@@ -255,7 +254,7 @@ You figure out the balance based on skills.
 
 ---
 
-## 🤝 Mentorship by Role
+## Mentorship by Role
 
 **If you're experienced in a role, mentor someone:**
 - Green team mentor: Helps new person learn the framework, practice deployment
@@ -267,16 +266,16 @@ Mentorship is how knowledge passes to the next generation.
 
 ---
 
-## 📞 Questions About Roles?
+## Questions About Roles?
 
 - **Not sure which role fits you?** Talk to your team captain or AJ
 - **Want to switch roles?** Tell your team captain (flexibility is fine during prep)
-- **Need help with your role?** That's what workshops + mentors are for
+- **Need help with your role?** That's what resources + mentors are for
 - **Is your role too much?** Talk to your team, rebalance if needed
 
 ---
 
 **Last updated:** June 2026  
-**Questions?** DM @AJ or ask in #cyberforce-chat
+**Questions?** DM @AJ or ask in #cyberforce
 
 ================================================================================

@@ -75,8 +75,6 @@ Don't miss it. Teams get rejected for late registration.
 
 Questions? #cyberforce-chat or DM @[Admin Name]
 
-Let's do this! ⚡
-
 ---
 
 **FOLLOW-UP REMINDERS** (send at these times)

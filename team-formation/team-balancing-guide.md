@@ -169,19 +169,19 @@ If someone strongly prefers a role/team, honor it if possible.
 **Save team composition:**
 ```
 LUG TEAM A
-- Team captain: TBD
+- Team captain: AJ Arguello
 - Roles:[to be defined]
 - Mentor: [TBD]
 - Discord channel: #cf-lug-team-a
 
 LUG TEAM B
-- Team captain: TBD
+- Team captain: Michael Khan
 - Roles: [to be assigned]
 - Mentor: [TBD]
 - Discord channel: #cf-lug-team-b
 
 ACM TEAM
-- Team captain: Caleb
+- Team captain: Caleb Scott
 - Roles: [assigned at ACM meeting]
 - Mentor: [TBD]
 - Discord channel: #cf-acm-team

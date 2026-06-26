@@ -7,7 +7,7 @@ How to Update & Maintain This Repo
 
 ---
 
-## 🎯 Why This Exists
+## Why This Exists
 
 This repo is the single source of truth for CyberForce curriculum. If you're updating materials, running an event, or learning from past years, you might want to add something here.
 
@@ -15,7 +15,7 @@ This repo is the single source of truth for CyberForce curriculum. If you're upd
 
 ---
 
-## 📝 Before You Write
+## Before You Write
 
 **Ask yourself:**
 
@@ -37,7 +37,7 @@ This repo is the single source of truth for CyberForce curriculum. If you're upd
 
 ---
 
-## 📂 File Organization
+## File Organization
 
 ### **Naming Conventions**
 
@@ -79,7 +79,7 @@ red-team-guide.md
 
 ---
 
-## 📄 File Format (Template)
+## File Format (Template)
 
 Every file should have this structure:
 
@@ -161,7 +161,7 @@ The C-Suite briefing is a recorded video presentation where your team explains t
 
 ---
 
-## ✍️ Writing Style
+## Writing Style
 
 - **Clear > fancy** — use simple language
 - **Scannable** — use headers, bullets, short paragraphs
@@ -183,19 +183,18 @@ The C-Suite briefing is a recorded video presentation where your team explains t
 
 ---
 
-## 🔗 Linking
+## Linking
 
 **Within repo:**
 ```markdown
 [CyberForce 101](docs/cyberforce-101.md)
 [Team Structure](team-formation/role-descriptions.md)
-[Lessons Learned](archival/red-team-knowledge/insights-from-michael.md)
 ```
 
 **External links:**
 ```markdown
 [CyberForce 101 Library](https://cyberforce.energy.gov/cyberforce-101-library/)
-[2024 Anomalies](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing)
+[CyberForce 2024 Team Google Drive](https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing)
 ```
 
 **Always use descriptive link text:**
@@ -206,7 +205,7 @@ The C-Suite briefing is a recorded video presentation where your team explains t
 
 ---
 
-## 🔄 Updating Existing Files
+## Updating Existing Files
 
 **Before you edit:**
 1. Check "Last updated" date — is this stale?
@@ -231,7 +230,7 @@ Added Windows hardening checklist
 
 ---
 
-## ➕ Adding New Files
+## Adding New Files
 
 **Do:**
 1. Follow the file format template above
@@ -253,7 +252,7 @@ Ready for review. Any feedback?
 
 ---
 
-## 🏷️ GitHub Issues & Organization
+## GitHub Issues & Organization
 
 **Create an Issue if:**
 - You're working on something (so people know not to duplicate effort)
@@ -288,7 +287,7 @@ Due: June 2026
 
 ---
 
-## 🔐 What NOT to Add
+## What NOT to Add
 
 **Don't commit:**
 - ❌ Personal contact info (emails, phone numbers)
@@ -305,7 +304,7 @@ Due: June 2026
 
 ---
 
-## 📊 Archival (After Competition)
+## Archival (After Competition)
 
 **Right after competition (within 1 week):**
 - [ ] Collect team scorecards from CyberForce
@@ -323,16 +322,16 @@ Due: June 2026
 **Files to create each year:**
 ```
 /archival/
-  ├── 2027-competition-summary.md
-  ├── 2027-team-reports/
+  ├── 2026-competition-summary.md
+  ├── 2026-team-reports/
   │   ├── lug-team-1-report.md
   │   └── lug-team-2-report.md
-  └── 2027-lessons-learned.md
+  └── 2026-lessons-learned.md
 ```
 
 ---
 
-## ✅ Checklist Before Submitting
+## Checklist Before Submitting
 
 - [ ] File follows naming conventions (lowercase, hyphens, `.md`)
 - [ ] File has "Last updated", "Owner", "For" section
@@ -345,7 +344,7 @@ Due: June 2026
 
 ---
 
-## 🚀 Example: How to Add Something
+## Example: How to Add Something
 
 **Scenario:** You want to add a guide on "How to Use Wazuh"
 
@@ -369,17 +368,17 @@ Due: June 2026
 
 ---
 
-## 📞 Questions?
+## Questions?
 
 - **How do I format this?** → See template above
 - **Where does this go?** → See file organization table
-- **Should I add this?** → Ask in #cyberforce-chat
+- **Should I add this?** → Ask in #cyberforce
 - **Found a mistake?** → Create an Issue or fix it + commit
-- **Need help?** → DM @AJ or post in #cyberforce-chat
+- **Need help?** → DM @AJ or post in #cyberforce
 
 ---
 
-## 🎯 Golden Rule
+## Golden Rule
 
 **If the next person can use this without asking a question, you did it right.**
 
