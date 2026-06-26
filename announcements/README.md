@@ -50,7 +50,6 @@ This folder contains announcement templates + records of 2026 announcements. Use
 - Discord = engagement, updates, Q&A, less formal
 - Both = critical information (so nobody can say they didn't know)
 - Always include: deadline, link (if applicable), contact for questions
-- Use emoji for scannability
 - Keep it under 200 words if Discord-only, longer is OK for email
 
 ---
