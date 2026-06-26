@@ -205,7 +205,7 @@
 ## What to Know by Phase
 
 ### **Before September**
-- ✅ What is CyberForce? (Read [CyberForce 101](cyberforce-101.md))
+- ✅ What is CyberForce? (Read [CyberForce 101](cyberforce101.md))
 - ✅ What's your team role? (Check [Team Roles](../team-formation/role-descriptions.md))
 - ✅ Time commitment realistic? (Yes, 2 hrs/week normal, 3–5 hrs during crunch)
 
