@@ -82,8 +82,8 @@
 | Timing | What | Details |
 |--------|------|---------|
 | **Estimated Oct 15** | **Scenario drops** | CyberForce releases scenario, company info, scope |
-| **Oct 22 (est.)** | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
 | Early Oct | Practice session | Teams do mock C-Suite presentations to each other |
+| **Oct 22 (est.)** | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
 | Mid-Oct | Recording session slots | Teams sign up to record their C-Suite videos |
 | Weekly | Team meetings | Ongoing prep, problem-solving |
 
