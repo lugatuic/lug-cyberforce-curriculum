@@ -146,7 +146,7 @@
 
 ---
 
-## 📊 The 3 "Phases" Explained
+## 📊 The 2 "Phases" Explained
 
 ### **Phase 1: C-Suite Briefing (1 week)**
 **What:** You explain the scenario + response plan in a video  
@@ -160,7 +160,7 @@
 **Duration:** 1 week of intense work  
 **Stress level:** High (you're SSH'd in, exploring, on deadline)  
 
-### **Phase 3: Competition (1 day)**
+### **Competition (1 day)**
 **What:** Live attack/defense + anomalies  
 **When:** Early-Mid Nov (estimated), usually full day  
 **Duration:** ~8 hours (8 AM–5 PM)  
