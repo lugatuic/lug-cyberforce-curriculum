@@ -62,7 +62,7 @@
 
 | Date | What | Details |
 |------|------|---------|
-| **Sept 20-26th** | **Welcome/Intro Event** | Michael, Sam, Tegan talk about CF experience |
+| **Sept 20-26th** | **Intro to CyberForce + CCDC** | Michael, Sam, Tegan talk about CF experience |
 | **Sept 20-26th** | **CyberForce CTF** | CTF themed around cyberforce scenario |
 | Mid-Sept | First team meetings | Teams meet for the first time (in person) |
 
@@ -74,7 +74,7 @@
 
 ---
 
-### **OCTOBER 2026 (Scenario Drops, Phase 1: C-Suite Prep)**
+### **OCTOBER 2026 (Scenario Drops, Phase 1: C-Suite)**
 
 | Timing | What | Details |
 |--------|------|---------|
