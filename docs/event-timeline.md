@@ -62,10 +62,9 @@
 
 | Date | What | Details |
 |------|------|---------|
-| **Early Sept** | **Welcome/Intro Event** | Michael, Sam, Tegan talk about CF experience |
+| **Sept 20-26th** | **Welcome/Intro Event** | Michael, Sam, Tegan talk about CF experience |
+| **Sept 20-26th** | **CyberForce CTF** | CTF themed around cyberforce scenario |
 | Mid-Sept | First team meetings | Teams meet for the first time (in person) |
-| Bi-weekly | CF/CCDC meetings | CF/CCDC CTF events (schedule TBA) |
-| Late Sept | CyberForce scenario hints | CyberForce may release hints about this year's scenario |
 
 **What you should do:**
 - Attend welcome event 
@@ -75,21 +74,22 @@
 
 ---
 
-### **OCTOBER 2026 (Scenario Drops, C-Suite Prep)**
+### **OCTOBER 2026 (Scenario Drops, Phase 1: C-Suite Prep)**
 
 | Timing | What | Details |
 |--------|------|---------|
-| Weekly/Bi-weekly | Team meetings | Ongoing prep, problem-solving |
-| Early Oct | **Scenario drops** | CyberForce releases scenario, company info, scope |
-| Early Oct | Practice session | Teams do mock C-Suite presentations to each other |
-| Mid-Oct | Recording session slots | Teams sign up to record their C-Suite videos |
-| Mid-late-Oct | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
+| Weekly/Bi-weekly | Team meetings | Ongoing prep |
+| Oct 4-10th | **CCDC CTF** | CTF themed around a CCDC scenario |
+| Oct 18th-24th | **Intro to System Hardening** |  A 3 day event where teams come together to become familiar with hardening a system (useful for Phase 2) |
+| **Oct 26th** | **Phase 1 Starts: C-Suite Scenario drops** | CyberForce releases scenario, company info, scope |
+| Oct 27th | C-Suite Fireside Chat | Informational session involving recording/scripting C-Suite | 
+| Oct 25-31st| C-Suite Practice presentations | Teams do mock C-Suite presentations to each other |
 
 
 **What you should do:**
 - Read scenario carefully (understand what you're defending)
 - Work with team on C-Suite briefing
-- Attend practice session + recording session
+- Attend practice session
 - Keep prepping
 
 **What's happening:**
@@ -103,10 +103,14 @@
 
 | Timing | What | Details |
 |--------|------|---------|
-| **Early Nov (est.)** | **SSH access to machines** | You can now log into actual competition network |
-| **Nov 8 (est.)** | **Security documentation due** | Final week's work — document all vulnerabilities found + fixes |
-| **Early-Mid Nov** | **Competition day** | Usually Friday or Saturday, full day event near Chicago |
-| ~6 PM | Awards ceremony | Results announced, debrief |
+| Nov 2nd | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
+| **Nov 2nd** | **Phase 2 starts: Security Documentation drops** | Teams are provided access to 2026 rulebook + access to systems |
+| Nov 2nd | CyberForce Rules Fireside Chat | An informational session going through the 2026 rulebook | 
+| Nov 3rd | CyberForce Security Documentation Fireside Chat | An informational session going over filling out the security documentation |
+| Nov 7th | C-Suite Late Submission Deadline | We not doing this pls | 
+| Nov 9th | CyberForce Security Documentation due | DEADLINE | 
+| Nov 11th | CyberForce Security Documentation Late Deadline | We not doing this pls | 
+| **Nov 13-14th** | **Competition day** | Friday or Saturday | Tinley Park Conventional Center, IL |  
 
 **What you should do:**
 - SSH into machines, explore + hunt vulnerabilities
@@ -121,7 +125,7 @@
 - Stress is real but manageable
 
 **Competition day details:**
-- **Location:** Likely Tinley Park Convention Center (estimated, confirm closer to date)
+- **Location:** Tinley Park Convention Center 
 - **Time:** 8 AM–5 PM (estimated, full day)
 - **What to bring:** Laptop, charger, ID, snacks, confidence
 - **Transportation:** Van rental arranged by LUG
@@ -148,19 +152,19 @@
 
 ### **Phase 1: C-Suite Briefing (1 week)**
 **What:** You explain the scenario + response plan in a video  
-**When:** Oct (estimated)  
+**When:** Oct 26th (estimated)  
 **Duration:** 1 week, but CyberForce gives you the scenario  
 **Stress level:** Medium (one deliverable, but you have a week)  
 
 ### **Phase 2: Security Documentation (1 week)**
 **What:** Explore machines, hunt vulnerabilities, document everything  
-**When:** Early Nov (estimated)  
+**When:** Nov 2nd (estimated)  
 **Duration:** 1 week of intense work  
 **Stress level:** High (you're SSH'd in, exploring, on deadline)  
 
 ### **Competition (1 day)**
 **What:** Live attack/defense + anomalies  
-**When:** Early-Mid Nov (estimated), usually full day  
+**When:** Nov 13-14th , usually full day  
 **Duration:** ~8 hours (8 AM–5 PM)  
 **Stress level:** Very high (real-time threats, scoring happening)  
 
@@ -181,10 +185,10 @@
 
 | Deadline | What | Impact |
 |----------|------|--------|
-| **Mid-July** | Registration deadline | Teams rejected if late |
-| **Early Oct** | C-Suite due | Can't compete if not submitted |
-| **Early Nov** | Security doc due | Can't compete if not submitted |
-| **Early-Mid Nov** | Competition day | Obviously |
+| **September 25th 11:59 PM CT** | Registration deadline | Teams rejected if late |
+| **November 2nd** | C-Suite due | Can't compete if not submitted |
+| **November 9th** | Security doc due | Can't compete if not submitted |
+| **November 13-14th** | Competition day | Obviously |
 
 ---
 
@@ -193,7 +197,7 @@
 **Scenario drops:** Online, CyberForce emails you  
 **C-Suite recording:** On campus (LUG room or study spaces we book)  
 **SSH access:** Anywhere with internet (VPN OK)  
-**Competition day:** **Tinley Park Convention Center** (estimated)
+**Competition day:** **Tinley Park Convention Center** 
 - Address: [Will be confirmed by CyberForce]
 - Drive time from UIC: ~45 min
 - Parking: Usually included with venue
@@ -265,7 +269,7 @@
 
 ---
 
-**Last updated:** June 2026  
+**Last updated:** July 2026  
 **Check CyberForce.energy.gov for official dates**
 
 ================================================================================
