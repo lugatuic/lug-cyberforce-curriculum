@@ -15,18 +15,6 @@
 
 ## Month-by-Month Breakdown
 
-### **JUNE 2026 (Planning)**
-
-| Date | What | Details |
-|------|------|---------|
-| Early June | Admin planning call | AJ, Michael, CTF leads plan summer + fall |
-| Mid-June | Announcements sent | Email + Discord to all interested people |
-| Late June / Early July | Info session (estimated) | CF veterans talk experience, skill assessment |
-
-**What you should do:**
-- Attend info session
-- Start exploring CyberForce 101 Library
-
 ---
 
 ### **JULY 2026 (Registration & Team Formation)**
