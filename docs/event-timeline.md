@@ -17,7 +17,7 @@
 
 ---
 
-### **JULY 2026 (Registration & Team Formation)**
+### >>**JULY 2026 (Registration & Team Formation)**<<
 
 | Date | What | Details |
 |------|------|---------|
