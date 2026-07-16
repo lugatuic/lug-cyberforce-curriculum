@@ -34,9 +34,7 @@
 | Date | What | Details |
 |------|------|---------|
 | July 15 @ 6 PM | [Official CyberForce 101 webinar](https://forms.office.com/pages/responsepage.aspx?id=haH8DPcl40mK53BNUybihd07nmsIx6lJma99FFRDrU1URFAzS1pGM1k4WDNOTjU5UFNRRkJGTkJMUS4u&route=shorturl) | Online, run by CyberForce organizers |
-| **Mid-July** | **Registration opens** | CyberForce announces exact date |
-| Mid-July | Announcement posted | AJ posts registration link in Discord |
-| **Late July** | **Registration deadline** | Last day to submit teams (HARD DEADLINE) |
+| **July 20th 9 AM CT** | **Registration opens** | CyberForce announces exact date |
 
 **What you should do:**
 - Attend July 15 webinar (optional but recommended)
