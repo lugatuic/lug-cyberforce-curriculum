@@ -82,7 +82,7 @@
 | Oct 4-10th | **CCDC CTF** | CTF themed around a CCDC scenario |
 | Oct 18th-24th | **Intro to System Hardening** |  A 3 day event where teams come together to become familiar with hardening a system (useful for Phase 2) |
 | **Oct 26th** | **Phase 1 Starts: C-Suite Scenario drops** | CyberForce releases scenario, company info, scope |
-| Oct 27th | C-Suite Fireside Chat | Informational session involving recording/scripting C-Suite | 
+| Oct 27th | CyberForce C-Suite Fireside Chat | CyberForce hosted informational session involving recording/scripting C-Suite | 
 | Oct 25-31st| C-Suite Practice presentations | Teams do mock C-Suite presentations to each other |
 
 
@@ -105,8 +105,8 @@
 |--------|------|---------|
 | Nov 2nd | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
 | **Nov 2nd** | **Phase 2 starts: Security Documentation drops** | Teams are provided access to 2026 rulebook + access to systems |
-| Nov 2nd | CyberForce Rules Fireside Chat | An informational session going through the 2026 rulebook | 
-| Nov 3rd | CyberForce Security Documentation Fireside Chat | An informational session going over filling out the security documentation |
+| Nov 2nd | CyberForce Rules Fireside Chat | CyberForce hosted informational session going through the 2026 rulebook | 
+| Nov 3rd | CyberForce Security Documentation Fireside Chat | CyberForce hosted informational session going over filling out the security documentation |
 | Nov 7th | C-Suite Late Submission Deadline | We not doing this pls | 
 | Nov 9th | CyberForce Security Documentation due | DEADLINE | 
 | Nov 11th | CyberForce Security Documentation Late Deadline | We not doing this pls | 
