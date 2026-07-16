@@ -1,7 +1,7 @@
 ================================================================================
 # CyberForce 2026 Competition Timeline
 
-**Last updated:** June 2026  
+**Last updated:** July 2026  
 **Owner:** AJ  
 **For:** Everyone (reference guide for planning)
 
