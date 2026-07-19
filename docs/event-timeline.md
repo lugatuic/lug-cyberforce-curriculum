@@ -91,7 +91,7 @@
 
 | Timing | What | Details |
 |--------|------|---------|
-| Nov 2nd, 10 AM CT | **C-Suite briefing due** | Recorded video, 5–10 min, team's response plan |
+| Nov 2nd, 10 AM CT | **C-Suite briefing due** | Recorded video, 5 min, team's response plan |
 | **Nov 2nd** | **Phase 2 starts: Security Documentation drops** | Teams are provided access to 2026 rulebook + access to systems |
 | Nov 2nd, 6 PM CT | CyberForce Rules Fireside Chat | CyberForce hosted informational session going through the 2026 rulebook | 
 | Nov 3rd, 6 PM CT | CyberForce Security Documentation Fireside Chat | CyberForce hosted informational session going over filling out the security documentation |
