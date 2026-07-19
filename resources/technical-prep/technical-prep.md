@@ -1,275 +1,317 @@
 ================================================================================
-# Technical Prep Resources
 
-**Last updated:** June 2026  
-**Owner:** AJ  
-**For:** Everyone (reference guide)
+CyberForce Official Resources
 
----
+For Everyone - Start Here
 
-*QUICK NOTE: Some of these sources can be VERY long in contents, my suggestion is to glance at first and see what you do and don't understand. If you are interested, dive into that topic and use these resources as an intro to that tool before finding other external sources on your own. Your study material will narrow down once role assignments are finalized. - AJ*
+Last updated: July 2026
+For: All competitors
 
-## Official CyberForce Resources
 
-**CyberForce Program Homepage**  
-- https://cyberforce.energy.gov/
+Official CyberForce Resources
 
-**CyberForce 101 Library** (START HERE)  
-- https://cyberforce.energy.gov/cyberforce-101-library/  
+CyberForce Homepage
 
-This is the official, comprehensive resource.
+https://cyberforce.energy.gov/
 
-**Join the CyberForce Listserv**  
-- https://cyberforce.energy.gov/stay-connected/  
+What: Official Department of Energy competition site
+Contains: News, rules, scenario info, registration
+Action: Bookmark this. Check for 2026 registration date announcement (mid-July)
 
-Gets you updates, news, and official announcements.
 
-**Register for a Team**  
-[TBA — CyberForce announces mid-July]  
-We will keep an eye on cyberforce.energy.gov when registration opens.
+CyberForce 101 Library -> START HERE
 
----
+https://cyberforce.energy.gov/cyberforce-101-library/
 
-## Past Competitions (Study These)
+What: Comprehensive official learning resource
+Covers: Competition overview, infrastructure concepts, security practices, tools
+How to use: Read through completely before competition prep starts
+Time investment: ~4–6 hours (but worth it)
 
-**2024 Anomalies** (Windows & Linux versions)  
-- https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing  
 
-**What:** Actual challenges from 2024 competition (8 GB)  
-**Why:** Best way to understand what anomalies look like  
-**How to use:** Solve them, time yourself, see different approaches
+Join the CyberForce Listserv
 
-**2025 Point Breakdown**  
-- https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=sharing  
+https://cyberforce.energy.gov/stay-connected/
 
-**What:** How many points for each scoring category  
-**Why:** Understand what matters (anomalies = 40%)  
-**How to use:** Plan your time accordingly
+What: Official email updates from CyberForce organizers
+Why: Announcements, deadline reminders, scenario releases
+Action: Subscribe ASAP (link on website)
 
-**2025 Team Scorecard**  
-- https://github.com/CyberForceProgram/2025_CyberForce_Competition/blob/main/Scorecards/Team%201.pdf  
 
-**What:** Real scorecard from a competing team  
-**Why:** See what scored well + what didn't  
-**How to use:** Learn from strengths/weaknesses
+FOR TEAM CAPTAINS: Register Your Team
 
-**Past CyberForceProgram GitHub**  
-- https://github.com/CyberForceProgram/  
+When: July 20 2026 
+Where: https://cyberforce.energy.gov/ [insert registeration link here]
+Action items:
 
-**What:** Official CyberForce GitHub org with past competitions  
-**Why:** Reference materials, past setups  
-**How to use:** Browse for ideas, see what's publicly available
 
----
+ Get team name + roster ready
+ Register within deadline [insert deadline date here]
 
-## Learning Resources (Self-Study)
 
-### **Linux**
 
-**Linux Fundamentals (Pwn.College overall is a great resource for on-hands learning Cyber exercises!)**  
-- https://pwn.college/linux-luminarium/  
+Competition Overview
 
-**Good for:** Basics if you've never used Linux
+What is CyberForce?
 
-**Linux Hardening Guide** (this would be useful once we know which Linux distro to use)
-- https://www.cisecurity.org/cis-benchmarks/ (look for Linux)  
+National competition run by Department of Energy (DOE) Office of Cybersecurity, Energy Security, and Emergency Response (CESER)
 
-**Good for:** Real hardening practices, not just theory
+Blue team defensive competition where your team defends a real-world energy infrastructure scenario against attacks from a red team.
 
-**Linux Command Line (Free Book, great to use as reference or deep dives)**  
-- http://linuxcommand.org/lc3_learning_the_shell.php  
+Three-week competition window:
 
-**Good for:** Command line practice
 
-### **Windows**
+Week 1 (Oct 26): C-Suite scenario released + teams prepare briefing
+Week 2 (Nov 2): AWS access + security documentation prep
+Week 3 (Nov 13-14): Competition day (full day event)
 
-**Windows Security Baseline** 
-- https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines
 
-**Good for:** Official hardening guidance
+Your goal: Defend systems, maintain uptime, find vulnerabilities (anomalies), respond to incidents, brief leadership on findings.
 
-**Windows Event Log Monitoring** 
-- https://newrelic.com/blog/log/windows-logging-guide
 
-**Good for:** Understanding what logs matter
+Competition Structure (5 Teams)
 
-**PowerShell Scripting**  
-- https://docs.microsoft.com/en-us/powershell/  
+Blue Team (Your team: 4–6 people)
 
-**Good for:** Automating Windows tasks
 
-### **Network Security**
+Defend network infrastructure
+Maintain system uptime
+Detect and respond to attacks
+Solve anomalies (CTF-style challenges)
+Document security measures
 
-**Wireshark Tutorial**  
-- https://www.wireshark.org/download/docs/  
 
-**Good for:** Packet analysis basics
+Red Team (Department of Energy staff + industry professionals)
 
-**Network Fundamentals** 
-- https://www.cisco.com/c/dam/global/fi_fi/assets/docs/SMB_University_120307_Networking_Fundamentals.pdf
-- https://www.cisco.com/site/us/en/learn/topics/small-business/networking-basics.html
 
-**Good for:** Understanding networking concepts
+Attack the blue team network
+Exploit vulnerabilities
+Test defenses
+Score the competition
 
-### **CTF & Anomaly Solving**
 
-**TryHackMe** (Free courses)  
-- https://tryhackme.com/  
+Green Team (Volunteers)
 
-**Good for:** Hands-on CTF-style practice
 
-**HackTheBox** (Free challenges)  
-- https://www.hackthebox.eu/  
+Play role of end users
+Use web applications
+Test system usability
+Report issues to blue team
 
-**Good for:** Real-world-ish scenarios
 
-**CTFTime**  
-- https://ctftime.org/  
+White Team (National lab employees)
 
-**Good for:** Writeups from past CTFs (see how others solved things)
 
-### **Open PLC**
+Help desk
+Support infrastructure setup
+Judge the competition
+Score uptime + services
+Manage competition logistics
 
-**Open PLC Official**  
-- https://www.openplcproject.com/  
 
-**Good for:** Documentation, tutorials, examples
+Orange Team (Volunteers)
 
-**Industrial Control Systems (ICS) Security**  [replace source]
-- https://www.fortinet.com/resources/cyberglossary/ics-security
 
-**Good for:** Understanding why PLC security matters
+Play role of C-Suite executives
+Review blue team briefing video
+Evaluate security documentation
+Score leadership/communication
 
-### **General Cybersecurity**
 
-**NIST Cybersecurity Framework**  
-- https://www.nist.gov/cyberframework  
 
-**Good for:** High-level security concepts
+Scoring Breakdown (2025 Example)
 
-**CIS Controls**  
-- https://www.cisecurity.org/cis-controls/  
+Points are awarded for:
 
-**Good for:** Critical security practices
+[update scoring here]
+Anomalies/CTF Challenges: ~40% (highest point source)
+System Uptime: ~20% (keeping systems running)
+Incident Response: ~10% (detecting/stopping attacks)
+Security Documentation: ~20% (explaining your measures)
+C-Suite Briefing: ~10% (communication to leadership)
 
----
 
-## Tools (Install & Practice)
 
-**Kali Linux** (penetration testing)  
-- https://www.kali.org/  
+Past Competitions (Learn from These)
 
-**What:** Pre-loaded with security tools  
-**Use in:** Virtual machine for safe practice
+2024 & 2025 Anomalies
 
-**VirtualBox** (virtual machines)  
-- https://www.virtualbox.org/  
+2024 Anomalies (Windows & Linux versions)
 
-**What:** Run Linux/Windows in a VM on your computer  
-**Use for:** Practicing without breaking your computer
 
-**Wireshark** (network analysis)  
-- https://www.wireshark.org/download/  
+https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing
+What: Real challenges from 2024 competition (8 GB)
+Why: Best way to understand what anomalies look like + difficulty level
 
-**What:** Capture & analyze network traffic  
-**Use for:** Understanding network communication
 
-**Wazuh** (security monitoring)  
-- https://wazuh.com/  
 
-**What:** Intrusion detection + monitoring  
-**Use for:** Learning how to detect attacks
 
-**Splunk** (log analysis)  
-- https://www.splunk.com/  
 
-**What:** Centralized logging + analysis  
-**Use for:** Understanding logs, spotting attacks
 
----
 
-## Documentation & References
+2025 Point Breakdown
 
-**OWASP Web Security**  
-- https://owasp.org/www-project-top-ten/  
 
-**Good for:** Web application security concepts
+https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=sharing
+What: Official points for each scoring category
+Why: Understand what matters most
 
-**SEC Consult Blog**  
-- https://sec-consult.com/blog/  
 
-**Good for:** Real vulnerability writeups
 
-**Medium Security Articles**  
-- https://medium.com/search?q=cybersecurity  
+2025 Team Scorecard (Real Example)
 
-**Good for:** Practical guides from practitioners
 
----
+https://github.com/CyberForceProgram/2025_CyberForce_Competition/blob/main/Scorecards/Team%201.pdf
+What: Actual scorecard from competing team
+Why: See what scored well + what didn't
+Learn from: Strengths to emulate, weaknesses to avoid
 
-## Past CyberForce Resources (Our Repo)
 
-**2026 Call Notes & Decisions**  
-- `/admin/admin-meeting-notes.md`  
 
-**What:** Admin decisions, timeline, lessons  
-**Good for:** Understanding how 2026 was planned
+CyberForce GitHub
 
-**Common Pitfalls**  
-- `/docs/common-pitfalls.md`  
 
-**What:** What went wrong + how to fix it  
-**Good for:** Avoiding mistakes before they happen
+https://github.com/CyberForceProgram/
+What: Official GitHub org with past competitions
+Contains: Anomalies, rules, documentation examples, setup scripts
+Use: Browse for ideas, understand structure
 
-**Team Roles & Structure**  
-- `/team-formation/role-descriptions.md`  
 
-**What:** What Green team, Vuln hunters, Monitors do  
-**Good for:** Understanding your role
 
----
+General Cybersecurity Concepts
 
-## Tips for Using Resources
+NIST Cybersecurity Framework
 
-**For beginners:**
-1. Start with CyberForce 101 Library (official, approachable)
-2. Watch some YouTube videos on Linux basics
-3. Use TryHackMe for hands-on practice
 
-**For intermediate:**
-1. Study 2024 anomalies
-2. Deep dive into Windows hardening
-3. Practice with HackTheBox
-4. Read security blogs + writeups
+https://www.nist.gov/cyberframework
+What: High-level security practices + concepts
+Why: Understand security philosophy beyond "follow rules"
+Read: Identify, Protect, Detect, Respond, Recover
 
-**For advanced:**
-1. Design your own challenges
-2. Help newer people
-3. Mentor a team
-4. If you are interested in red teaming, consider volunteering for the Red Team at CyberForce! DM @AJ for more info
 
----
 
-## How to Suggest New Resources
+CIS Controls (Critical Security Practices)
 
-Found a great guide? Tutorial? Tool?
 
-1. Open a GitHub Issue: "Suggest adding [resource] to official links"
-2. Include: Link, what it's for, why it's good
-3. Tag @AJ(SeveralBandicoot) or whoever maintains this
+https://www.cisecurity.org/cis-controls/
+What: Top security measures organizations implement
+Why: Many practices you'll use are based on these
+Focus: Inventory, Access control, Monitoring
 
----
 
-## Don't Use These
 
-**Avoid:**
-- ❌ Paid courses for basic stuff (there are free alternatives)
-- ❌ Outdated tutorials (check publish date)
-- ❌ Sketchy websites
+Everyone Should Install
 
----
+Before competition starts, have these ready:
 
-**Last updated:** June 2026
-**Have a resource to add?** Create GitHub Issue or tell @AJ
+VirtualBox (Practice Environment)
+
+
+https://www.virtualbox.org/
+What: Run Linux/Windows VMs on your computer
+Why: Practice hardening without breaking your system
+Install: Download + follow setup wizard
+
+
+Git (Version Control)
+
+
+What: Track code changes
+Why: Some anomalies involve git repos
+Install: apt-get install git (Linux) or https://git-scm.com/ (Windows/Mac)
+
+
+Docker (Containerization)
+
+
+What: Run containerized applications
+Why: Some anomalies use Docker
+Install: https://docs.docker.com/get-docker/
+
+
+Python (Scripting)
+
+
+What: Write quick scripts + tools
+Why: Many anomalies require custom Python scripts
+Check: Usually pre-installed on Linux
+Install: https://www.python.org/
+
+
+Text Editor with Good Tools
+
+
+Recommended: VSCode (https://code.visualstudio.com/)
+Why: View code, logs, configs; supports syntax highlighting
+Extensions: Useful for viewing different file types
+
+
+
+How to Prepare (Generic Timeline)
+
+Month 1 (September: Foundation)
+
+
+ Read CyberForce 101 Library completely
+ Understand competition structure (what we explained above)
+ Join CyberForce listserv
+ Install VirtualBox + practice OS
+ Start learning your role's fundamentals
+
+
+Month 2 (October: Deep Dive)
+
+
+ Deep dive on your role (Linux/Windows/Web/Anomalies)
+ Set up AWS account (once provided)
+ Practice in lab environment
+ Work with your team on 2024 competition
+
+
+Month 3 (November: Crunch + Competition)
+
+
+ Week 1: Prepare C-Suite briefing + Security Docs
+ Week 2: AWS access → finalize hardening + monitoring
+ Week 3: Competition day! (Friday or Saturday, all-day event)
+
+
+
+⚠️ Important Rules
+
+During competition:
+
+
+Only your 4–6 team members can work on the competition
+No help from mentors, teachers, other students
+No external resources beyond what you brought
+Coordinate with UIC teams (no disqualification through info-sharing mistakes)
+Follow all CyberForce rules (they're strict)
+
+
+Pre-competition:
+
+
+Study materials
+Practice anomalies
+Prepare infrastructure
+Document everything
+
+
+
+Your First Steps 
+
+
+ Bookmark CyberForce homepage
+ Subscribe to listserv
+ Read CyberForce 101 Library (at least overview)
+ Install VirtualBox + practice setting up a Linux VM
+ Install Git + Python
+ Choose your role (Green Team, Hunter, Monitoring & Hardening)
+ Read your role-specific resources (next pages)
+
+
+
+Questions? Ask in #cyberforce or DM @AJ
 
 ================================================================================
