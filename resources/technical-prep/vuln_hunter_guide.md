@@ -325,7 +325,7 @@ Your job: Solve challenges
 
 ---
 
-## Your Prep Timeline
+## Prep Timeline Example
 
 | Week | Goals |
 |------|-------|
