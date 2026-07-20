@@ -225,7 +225,7 @@ Before starting this section, you should:
 ---
 
 
-## Your Prep Timeline
+## Prep Timeline Example
 
 | Week | Goals |
 |------|-------|
