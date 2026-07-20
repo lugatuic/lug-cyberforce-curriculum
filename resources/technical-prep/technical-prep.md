@@ -272,7 +272,7 @@ Extensions: Useful for viewing different file types
 
 
 
-⚠️ Important Rules
+>⚠️ Important Rules
 
 ### During competition:
 
