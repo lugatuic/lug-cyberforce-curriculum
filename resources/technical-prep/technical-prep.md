@@ -17,7 +17,7 @@ What: Official Department of Energy competition site
 
 Contains: News, rules, scenario info, registration
 
-Action: Bookmark this. Check for 2026 registration date announcement (mid-July)
+Action: Bookmark this
 
 
 ### CyberForce 101 Library -> START HERE
@@ -36,19 +36,21 @@ How to use: Read through completely before competition prep starts
 https://cyberforce.energy.gov/stay-connected/
 
 What: Official email updates from CyberForce organizers
+
 Why: Announcements, deadline reminders, scenario releases
+
 Action: Subscribe ASAP (link on website)
 
 
 ### FOR TEAM CAPTAINS: Register Your Team
 
 When: July 20 2026 
-Where: https://cyberforce.energy.gov/ [insert registeration link here]
+
+Where: [registeration link](https://cyberforce.energy.gov/cyberforce-competition/2026-competition/)
+
 Action items:
-
-
- Get team name + roster ready
- Register within deadline [insert deadline date here]
+- Get team name + roster ready
+- Register within deadline (July 20 - September )
 
 ---
 
@@ -57,7 +59,6 @@ Action items:
 ### What is CyberForce?
 
 National competition run by Department of Energy (DOE) Office of Cybersecurity, Energy Security, and Emergency Response (CESER)
-
 Blue team defensive competition where your team defends a real-world energy infrastructure scenario against attacks from a red team.
 
 Three-week competition window:
