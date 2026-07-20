@@ -131,7 +131,7 @@ Incident Response: ~10% (detecting/stopping attacks)
 Security Documentation: ~20% (explaining your measures)
 C-Suite Briefing: ~10% (communication to leadership)
 
-
+---
 
 ### Past Competitions (Learn from These)
 
@@ -151,7 +151,7 @@ https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=shari
 What: Official points for each scoring category
 Why: Understand what matters most
 
-
+---
 
 #### 2025 Team Scorecard (Real Example)
 
@@ -161,7 +161,7 @@ What: Actual scorecard from competing team
 Why: See what scored well + what didn't
 Learn from: Strengths to emulate, weaknesses to avoid
 
-
+---
 
 ### CyberForce GitHub
 
@@ -171,10 +171,10 @@ What: Official GitHub org with past competitions
 Contains: Anomalies, rules, documentation examples, setup scripts
 Use: Browse for ideas, understand structure
 
-
+---
 
 ## General Cybersecurity Concepts
-
+---
 ### NIST Cybersecurity Framework
 
 
@@ -196,7 +196,7 @@ Focus: Inventory, Access control, Monitoring
 
 
 ## Everyone Should Install
-
+---
 Before competition starts, have these ready:
 
 ### VirtualBox (Practice Environment)
@@ -243,7 +243,7 @@ Extensions: Useful for viewing different file types
 
 
 ## How to Prepare (Generic Timeline)
-
+---
 ### Month 1 (September: Foundation)
 
 
@@ -292,7 +292,7 @@ Practice anomalies
 Prepare infrastructure
 Document everything
 
-
+---
 
 ### Your First Steps 
 
