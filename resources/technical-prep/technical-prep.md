@@ -80,48 +80,48 @@ Your goal: Defend systems, maintain uptime, find vulnerabilities (anomalies), re
 #### Blue Team (Your team: 4–6 people)
 
 
-Defend network infrastructure
-Maintain system uptime
-Detect and respond to attacks
-Solve anomalies (CTF-style challenges)
-Document security measures
+- Defend network infrastructure
+- Maintain system uptime
+- Detect and respond to attacks
+- Solve anomalies (CTF-style challenges)
+- Document security measures
 
 
 #### Red Team (Department of Energy staff + industry professionals)
 
 
-Attack the blue team network
-Exploit vulnerabilities
-Test defenses
-Score the competition
+- Attack the blue team network
+- Exploit vulnerabilities
+- Test defenses
+- Score the competition
 
 
 #### Green Team (Volunteers)
 
 
-Play role of end users
-Use web applications
-Test system usability
-Report issues to blue team
+- Play role of end users
+- Use web applications
+- Test system usability
+- Report issues to blue team
 
 
 #### White Team (National lab employees)
 
 
-Help desk
-Support infrastructure setup
-Judge the competition
-Score uptime + services
-Manage competition logistics
+- Help desk
+- Support infrastructure setup
+- Judge the competition
+- Score uptime + services
+- Manage competition logistics
 
 
 #### Orange Team (Volunteers)
 
 
-Play role of C-Suite executives
-Review blue team briefing video
-Evaluate security documentation
-Score leadership/communication
+- Play role of C-Suite executives
+- Review blue team briefing video
+- Evaluate security documentation
+- Score leadership/communication
 
 ---
 
@@ -130,11 +130,11 @@ Score leadership/communication
 Points are awarded for:
 
 [update scoring here]
-Anomalies/CTF Challenges: ~40% (highest point source)
-System Uptime: ~20% (keeping systems running)
-Incident Response: ~10% (detecting/stopping attacks)
-Security Documentation: ~20% (explaining your measures)
-C-Suite Briefing: ~10% (communication to leadership)
+- Anomalies/CTF Challenges: ~40% (highest point source)
+- System Uptime: ~20% (keeping systems running)
+- Incident Response: ~10% (detecting/stopping attacks)
+- Security Documentation: ~20% (explaining your measures)
+- C-Suite Briefing: ~10% (communication to leadership)
 
 ---
 
@@ -144,7 +144,9 @@ C-Suite Briefing: ~10% (communication to leadership)
 
 
 https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing
+
 What: Real challenges from 2024 competition (8 GB)
+
 Why: Best way to understand what anomalies look like + difficulty level
 
 ---
@@ -153,7 +155,9 @@ Why: Best way to understand what anomalies look like + difficulty level
 
 
 https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=sharing
+
 What: Official points for each scoring category
+
 Why: Understand what matters most
 
 ---
@@ -162,8 +166,11 @@ Why: Understand what matters most
 
 
 https://github.com/CyberForceProgram/2025_CyberForce_Competition/blob/main/Scorecards/Team%201.pdf
+
 What: Actual scorecard from competing team
+
 Why: See what scored well + what didn't
+
 Learn from: Strengths to emulate, weaknesses to avoid
 
 ---
@@ -172,8 +179,11 @@ Learn from: Strengths to emulate, weaknesses to avoid
 
 
 https://github.com/CyberForceProgram/
+
 What: Official GitHub org with past competitions
+
 Contains: Anomalies, rules, documentation examples, setup scripts
+
 Use: Browse for ideas, understand structure
 
 ---
@@ -184,8 +194,11 @@ Use: Browse for ideas, understand structure
 
 
 https://www.nist.gov/cyberframework
+
 What: High-level security practices + concepts
+
 Why: Understand security philosophy beyond "follow rules"
+
 Read: Identify, Protect, Detect, Respond, Recover
 
 
@@ -194,8 +207,11 @@ Read: Identify, Protect, Detect, Respond, Recover
 
 
 https://www.cisecurity.org/cis-controls/
+
 What: Top security measures organizations implement
+
 Why: Many practices you'll use are based on these
+
 Focus: Inventory, Access control, Monitoring
 
 
@@ -208,8 +224,11 @@ Before competition starts, have these ready:
 
 
 https://www.virtualbox.org/
+
 What: Run Linux/Windows VMs on your computer
+
 Why: Practice hardening without breaking your system
+
 Install: Download + follow setup wizard
 
 
@@ -217,7 +236,9 @@ Install: Download + follow setup wizard
 
 
 What: Track code changes
+
 Why: Some anomalies involve git repos
+
 Install: apt-get install git (Linux) or https://git-scm.com/ (Windows/Mac)
 
 
@@ -225,7 +246,9 @@ Install: apt-get install git (Linux) or https://git-scm.com/ (Windows/Mac)
 
 
 What: Run containerized applications
+
 Why: Some anomalies use Docker
+
 Install: https://docs.docker.com/get-docker/
 
 
@@ -233,8 +256,11 @@ Install: https://docs.docker.com/get-docker/
 
 
 What: Write quick scripts + tools
+
 Why: Many anomalies require custom Python scripts
+
 Check: Usually pre-installed on Linux
+
 Install: https://www.python.org/
 
 
@@ -242,7 +268,9 @@ Install: https://www.python.org/
 
 
 Recommended: VSCode (https://code.visualstudio.com/)
+
 Why: View code, logs, configs; supports syntax highlighting
+
 Extensions: Useful for viewing different file types
 
 
@@ -252,27 +280,28 @@ Extensions: Useful for viewing different file types
 ### Month 1 (September: Foundation)
 
 
- Read CyberForce 101 Library completely
- Understand competition structure (what we explained above)
- Join CyberForce listserv
- Install VirtualBox + practice OS
- Start learning your role's fundamentals
+ 1. Read CyberForce 101 Library completely
+ 2. Understand competition structure (what we explained above)
+ 3. Join CyberForce listserv
+ 4. Install VirtualBox + practice OS
+ 5. Start learning your role's fundamentals
 
 
 ### Month 2 (October: Deep Dive)
 
 
- Deep dive on your role (Linux/Windows/Web/Anomalies)
- Set up AWS account (once provided)
- Practice in lab environment
- Work with your team on 2024 competition
+1. Deep dive on your role (Linux/Windows/Web/Anomalies)
+2. Set up AWS account (once provided)
+3. Practice in lab environment
 
 
 ### Month 3 (November: Crunch + Competition)
 
 
  Week 1: Prepare C-Suite briefing + Security Docs
+
  Week 2: AWS access → finalize hardening + monitoring
+ 
  Week 3: Competition day! (Friday or Saturday, all-day event)
 
 
@@ -295,23 +324,21 @@ Extensions: Useful for viewing different file types
 ### Pre-competition:
 
 
-Study materials
-Practice anomalies
-Prepare infrastructure
-Document everything
+- Study materials
+- Prepare infrastructure
+- Document everything
 
 ---
 
 ### Your First Steps 
 
 
- Bookmark CyberForce homepage
- Subscribe to listserv
- Read CyberForce 101 Library (at least overview)
- Install VirtualBox + practice setting up a Linux VM
- Install Git + Python
- Choose your role (Green Team, Hunter, Monitoring & Hardening)
- Read your role-specific resources (next pages)
+ 1. Bookmark CyberForce homepage
+ 2. Subscribe to listserv
+ 3. Read CyberForce 101 Library (at least overview)
+ 4. Install VirtualBox + practice setting up a Linux VM
+ 5. Install Git + Python
+ 6. Read your role-specific resources
 
 
 
