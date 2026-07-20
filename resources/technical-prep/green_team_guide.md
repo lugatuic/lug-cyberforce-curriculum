@@ -35,7 +35,7 @@ Before starting this section, you should:
 - [ ] Be comfortable in Linux command line (basic navigation)
 - [ ] Have some JavaScript familiarity (not expert, but basics)
 
-**If you don't have these:** Read `/resources/technical-prep/technical-prep.md` fundamentals first.
+**If you don't have these:** Read [/resources/technical-prep/technical-prep.md](technical-prep.md) fundamentals first.
 
 ---
 
