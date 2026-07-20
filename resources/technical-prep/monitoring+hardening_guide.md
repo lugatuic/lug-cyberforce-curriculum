@@ -450,8 +450,8 @@ chmod 750 /etc/sudoers.d/              # Only root can modify sudo
 
 ## Your Prep Timeline
 
-| Week | Goals | Time |
-|------|-------|------|
+| Week | Goals |
+|------|-------|
 | **Sept 1** | Read this page |
 | **Sept 2** | Linux hardening fundamentals |
 | **Sept 3** | Windows hardening fundamentals |
