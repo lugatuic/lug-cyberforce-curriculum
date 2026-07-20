@@ -34,7 +34,7 @@ Before starting this section, you should:
 - [ ] Problem-solving skills (CTF experience is huge plus)
 - [ ] Willingness to google + learn on the fly
 
-**If you don't have these:** Read `/resources/technical-prep/technical_prep.md/` fundamentals first.
+**If you don't have these:** Read [/resources/technical-prep/technical_prep.md/](technical_prep.md) fundamentals first.
 
 ---
 
