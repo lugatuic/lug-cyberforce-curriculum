@@ -274,14 +274,14 @@ Extensions: Useful for viewing different file types
 
 >⚠️ Important Rules
 
-### During competition:
+>### During competition:
 
 
-Only your 4–6 team members can work on the competition
-No help from mentors, teachers, other students
-No external resources beyond what you brought
-Coordinate with UIC teams (no disqualification through info-sharing mistakes)
-Follow all CyberForce rules (they're strict)
+>Only your 4–6 team members can work on the competition
+>No help from mentors, teachers, other students
+>No external resources beyond what you brought
+>Coordinate with UIC teams (no disqualification through info-sharing mistakes)
+>Follow all CyberForce rules (they're strict)
 
 
 ### Pre-competition:
