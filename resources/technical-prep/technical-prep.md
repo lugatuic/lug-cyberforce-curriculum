@@ -339,7 +339,7 @@ Extensions: Useful for viewing different file types
  4. Install VirtualBox + practice setting up a Linux VM
  5. Install Git + Python
  6. Read your role-specific resources
-     - [Green Team Guide](resources/technical-prep/green_team_guide.md)
+     - [Green Team Guide](technical-prep/green_team_guide.md)
      - [Vulnerability Hunter Guide](resources/technical-prep/vuln_hunter_guide.md)
      - [Monitoring & Hardening Guide](resources/technical-prep/monitoring+hardening_guide.md)
 
