@@ -14,7 +14,9 @@ For: All competitors
 https://cyberforce.energy.gov/
 
 What: Official Department of Energy competition site
+
 Contains: News, rules, scenario info, registration
+
 Action: Bookmark this. Check for 2026 registration date announcement (mid-July)
 
 
@@ -23,9 +25,10 @@ Action: Bookmark this. Check for 2026 registration date announcement (mid-July)
 https://cyberforce.energy.gov/cyberforce-101-library/
 
 What: Comprehensive official learning resource
+
 Covers: Competition overview, infrastructure concepts, security practices, tools
+
 How to use: Read through completely before competition prep starts
-Time investment: ~4–6 hours (but worth it)
 
 
 ### Join the CyberForce Listserv
