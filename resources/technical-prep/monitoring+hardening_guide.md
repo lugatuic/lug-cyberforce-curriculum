@@ -448,7 +448,7 @@ chmod 750 /etc/sudoers.d/              # Only root can modify sudo
 
 ---
 
-## Your Prep Timeline
+## Prep Timeline Example
 
 | Week | Goals |
 |------|-------|
@@ -522,7 +522,7 @@ By October 31, you should be able to:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 1. [ ] Finish reading this page
 2. [ ] Set up Linux + Windows VMs (VirtualBox)
