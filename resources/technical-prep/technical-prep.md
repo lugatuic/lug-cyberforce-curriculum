@@ -6,6 +6,7 @@
 For Everyone - Start Here
 
 Last updated: July 2026
+
 For: All competitors
 
 ### CyberForce Homepage
