@@ -339,6 +339,9 @@ Extensions: Useful for viewing different file types
  4. Install VirtualBox + practice setting up a Linux VM
  5. Install Git + Python
  6. Read your role-specific resources
+     - Green Team Guide
+     - Vulnerability Hunter Guide
+     - Monitoring & Hardening Guide
 
 
 
