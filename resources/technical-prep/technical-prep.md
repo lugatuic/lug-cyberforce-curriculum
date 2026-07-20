@@ -46,7 +46,7 @@ Action items:
  Get team name + roster ready
  Register within deadline [insert deadline date here]
 
-
+---
 
 ## Competition Overview
 
