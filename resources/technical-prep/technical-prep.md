@@ -1,14 +1,12 @@
 ================================================================================
+# General Competition Preparation
 
-# CyberForce Official Resources
+## CyberForce Official Resources
 
 For Everyone - Start Here
 
 Last updated: July 2026
 For: All competitors
-
-
-## Official CyberForce Resources
 
 ### CyberForce Homepage
 
@@ -71,7 +69,7 @@ Your goal: Defend systems, maintain uptime, find vulnerabilities (anomalies), re
 
 ### Competition Structure (5 Teams)
 
-Blue Team (Your team: 4–6 people)
+#### Blue Team (Your team: 4–6 people)
 
 
 Defend network infrastructure
@@ -81,7 +79,7 @@ Solve anomalies (CTF-style challenges)
 Document security measures
 
 
-Red Team (Department of Energy staff + industry professionals)
+#### Red Team (Department of Energy staff + industry professionals)
 
 
 Attack the blue team network
@@ -90,7 +88,7 @@ Test defenses
 Score the competition
 
 
-Green Team (Volunteers)
+#### Green Team (Volunteers)
 
 
 Play role of end users
@@ -99,7 +97,7 @@ Test system usability
 Report issues to blue team
 
 
-White Team (National lab employees)
+#### White Team (National lab employees)
 
 
 Help desk
@@ -109,7 +107,7 @@ Score uptime + services
 Manage competition logistics
 
 
-Orange Team (Volunteers)
+#### Orange Team (Volunteers)
 
 
 Play role of C-Suite executives
@@ -132,11 +130,9 @@ C-Suite Briefing: ~10% (communication to leadership)
 
 
 
-## Past Competitions (Learn from These)
+### Past Competitions (Learn from These)
 
-2024 & 2025 Anomalies
-
-2024 Anomalies (Windows & Linux versions)
+#### 2024 Anomalies (Windows & Linux versions)
 
 
 https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sharing
@@ -149,7 +145,7 @@ Why: Best way to understand what anomalies look like + difficulty level
 
 
 
-### 2025 Point Breakdown
+#### 2025 Point Breakdown
 
 
 https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=sharing
@@ -158,7 +154,7 @@ Why: Understand what matters most
 
 
 
-### 2025 Team Scorecard (Real Example)
+#### 2025 Team Scorecard (Real Example)
 
 
 https://github.com/CyberForceProgram/2025_CyberForce_Competition/blob/main/Scorecards/Team%201.pdf
@@ -178,9 +174,9 @@ Use: Browse for ideas, understand structure
 
 
 
-### General Cybersecurity Concepts
+## General Cybersecurity Concepts
 
-NIST Cybersecurity Framework
+### NIST Cybersecurity Framework
 
 
 https://www.nist.gov/cyberframework
@@ -249,7 +245,7 @@ Extensions: Useful for viewing different file types
 
 ## How to Prepare (Generic Timeline)
 
-Month 1 (September: Foundation)
+### Month 1 (September: Foundation)
 
 
  Read CyberForce 101 Library completely
@@ -259,7 +255,7 @@ Month 1 (September: Foundation)
  Start learning your role's fundamentals
 
 
-Month 2 (October: Deep Dive)
+### Month 2 (October: Deep Dive)
 
 
  Deep dive on your role (Linux/Windows/Web/Anomalies)
@@ -268,7 +264,7 @@ Month 2 (October: Deep Dive)
  Work with your team on 2024 competition
 
 
-Month 3 (November: Crunch + Competition)
+### Month 3 (November: Crunch + Competition)
 
 
  Week 1: Prepare C-Suite briefing + Security Docs
@@ -279,7 +275,7 @@ Month 3 (November: Crunch + Competition)
 
 ⚠️ Important Rules
 
-During competition:
+### During competition:
 
 
 Only your 4–6 team members can work on the competition
@@ -289,7 +285,7 @@ Coordinate with UIC teams (no disqualification through info-sharing mistakes)
 Follow all CyberForce rules (they're strict)
 
 
-Pre-competition:
+### Pre-competition:
 
 
 Study materials
@@ -299,7 +295,7 @@ Document everything
 
 
 
-Your First Steps 
+### Your First Steps 
 
 
  Bookmark CyberForce homepage
