@@ -327,8 +327,8 @@ Your job: Solve challenges
 
 ## Your Prep Timeline
 
-| Week | Goals | Time |
-|------|-------|------|
+| Week | Goals |
+|------|-------|
 | **Sept 1** | Read this page |
 | **Sept 2** | Linux fundamentals + practice |
 | **Sept 3** | Windows fundamentals + practice |
