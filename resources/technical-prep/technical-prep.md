@@ -60,7 +60,9 @@ Three-week competition window:
 
 
 Week 1 (Oct 26): C-Suite scenario released + teams prepare briefing
+
 Week 2 (Nov 2): AWS access + security documentation prep
+
 Week 3 (Nov 13-14): Competition day (full day event)
 
 
