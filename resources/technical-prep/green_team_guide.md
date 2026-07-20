@@ -227,8 +227,8 @@ Before starting this section, you should:
 
 ## Your Prep Timeline
 
-| Week | Goals | Time |
-|------|-------|------|
+| Week | Goals |
+|------|-------|
 | **Sept 1** | Read this page, understand role | 
 | **Sept 2–3** | JavaScript basics, install tools | 
 | **Sept 4–5** | CSS practice, modify websites | 
