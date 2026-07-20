@@ -1,6 +1,6 @@
 ================================================================================
 
-CyberForce Official Resources
+# CyberForce Official Resources
 
 For Everyone - Start Here
 
@@ -8,9 +8,9 @@ Last updated: July 2026
 For: All competitors
 
 
-Official CyberForce Resources
+## Official CyberForce Resources
 
-CyberForce Homepage
+### CyberForce Homepage
 
 https://cyberforce.energy.gov/
 
@@ -19,7 +19,7 @@ Contains: News, rules, scenario info, registration
 Action: Bookmark this. Check for 2026 registration date announcement (mid-July)
 
 
-CyberForce 101 Library -> START HERE
+### CyberForce 101 Library -> START HERE
 
 https://cyberforce.energy.gov/cyberforce-101-library/
 
@@ -29,7 +29,7 @@ How to use: Read through completely before competition prep starts
 Time investment: ~4–6 hours (but worth it)
 
 
-Join the CyberForce Listserv
+### Join the CyberForce Listserv
 
 https://cyberforce.energy.gov/stay-connected/
 
@@ -38,7 +38,7 @@ Why: Announcements, deadline reminders, scenario releases
 Action: Subscribe ASAP (link on website)
 
 
-FOR TEAM CAPTAINS: Register Your Team
+### FOR TEAM CAPTAINS: Register Your Team
 
 When: July 20 2026 
 Where: https://cyberforce.energy.gov/ [insert registeration link here]
@@ -50,9 +50,9 @@ Action items:
 
 
 
-Competition Overview
+## Competition Overview
 
-What is CyberForce?
+### What is CyberForce?
 
 National competition run by Department of Energy (DOE) Office of Cybersecurity, Energy Security, and Emergency Response (CESER)
 
@@ -69,7 +69,7 @@ Week 3 (Nov 13-14): Competition day (full day event)
 Your goal: Defend systems, maintain uptime, find vulnerabilities (anomalies), respond to incidents, brief leadership on findings.
 
 
-Competition Structure (5 Teams)
+### Competition Structure (5 Teams)
 
 Blue Team (Your team: 4–6 people)
 
@@ -119,7 +119,7 @@ Score leadership/communication
 
 
 
-Scoring Breakdown (2025 Example)
+### Scoring Breakdown (2025 Example)
 
 Points are awarded for:
 
@@ -132,7 +132,7 @@ C-Suite Briefing: ~10% (communication to leadership)
 
 
 
-Past Competitions (Learn from These)
+## Past Competitions (Learn from These)
 
 2024 & 2025 Anomalies
 
@@ -149,7 +149,7 @@ Why: Best way to understand what anomalies look like + difficulty level
 
 
 
-2025 Point Breakdown
+### 2025 Point Breakdown
 
 
 https://drive.google.com/file/d/1NXFNB1wIp9bFK6V8Iu-IGZXj0_gzMTsR/view?usp=sharing
@@ -158,7 +158,7 @@ Why: Understand what matters most
 
 
 
-2025 Team Scorecard (Real Example)
+### 2025 Team Scorecard (Real Example)
 
 
 https://github.com/CyberForceProgram/2025_CyberForce_Competition/blob/main/Scorecards/Team%201.pdf
@@ -168,7 +168,7 @@ Learn from: Strengths to emulate, weaknesses to avoid
 
 
 
-CyberForce GitHub
+### CyberForce GitHub
 
 
 https://github.com/CyberForceProgram/
@@ -178,7 +178,7 @@ Use: Browse for ideas, understand structure
 
 
 
-General Cybersecurity Concepts
+### General Cybersecurity Concepts
 
 NIST Cybersecurity Framework
 
@@ -190,7 +190,7 @@ Read: Identify, Protect, Detect, Respond, Recover
 
 
 
-CIS Controls (Critical Security Practices)
+### CIS Controls (Critical Security Practices)
 
 
 https://www.cisecurity.org/cis-controls/
@@ -200,11 +200,11 @@ Focus: Inventory, Access control, Monitoring
 
 
 
-Everyone Should Install
+## Everyone Should Install
 
 Before competition starts, have these ready:
 
-VirtualBox (Practice Environment)
+### VirtualBox (Practice Environment)
 
 
 https://www.virtualbox.org/
@@ -213,7 +213,7 @@ Why: Practice hardening without breaking your system
 Install: Download + follow setup wizard
 
 
-Git (Version Control)
+### Git (Version Control)
 
 
 What: Track code changes
@@ -221,7 +221,7 @@ Why: Some anomalies involve git repos
 Install: apt-get install git (Linux) or https://git-scm.com/ (Windows/Mac)
 
 
-Docker (Containerization)
+### Docker (Containerization)
 
 
 What: Run containerized applications
@@ -229,7 +229,7 @@ Why: Some anomalies use Docker
 Install: https://docs.docker.com/get-docker/
 
 
-Python (Scripting)
+### Python (Scripting)
 
 
 What: Write quick scripts + tools
@@ -238,7 +238,7 @@ Check: Usually pre-installed on Linux
 Install: https://www.python.org/
 
 
-Text Editor with Good Tools
+### Text Editor with Good Tools
 
 
 Recommended: VSCode (https://code.visualstudio.com/)
@@ -247,7 +247,7 @@ Extensions: Useful for viewing different file types
 
 
 
-How to Prepare (Generic Timeline)
+## How to Prepare (Generic Timeline)
 
 Month 1 (September: Foundation)
 
