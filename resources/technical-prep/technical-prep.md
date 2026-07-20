@@ -1,6 +1,6 @@
 ================================================================================
 # General Competition Preparation
-
+---
 ## CyberForce Official Resources
 
 For Everyone - Start Here
@@ -68,6 +68,7 @@ Week 3 (Nov 13-14): Competition day (full day event)
 
 Your goal: Defend systems, maintain uptime, find vulnerabilities (anomalies), respond to incidents, brief leadership on findings.
 
+---
 
 ### Competition Structure (5 Teams)
 
@@ -117,7 +118,7 @@ Review blue team briefing video
 Evaluate security documentation
 Score leadership/communication
 
-
+---
 
 ### Scoring Breakdown (2025 Example)
 
@@ -141,11 +142,7 @@ https://drive.google.com/drive/folders/1CMDQ8fPsviGhkE3nmA0YcQ7K8DPiedaM?usp=sha
 What: Real challenges from 2024 competition (8 GB)
 Why: Best way to understand what anomalies look like + difficulty level
 
-
-
-
-
-
+---
 
 #### 2025 Point Breakdown
 
